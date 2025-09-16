@@ -1,0 +1,21 @@
+{
+  "name": "subtitle-viewer",
+  "version": "1.0.0",
+  "description": "A simple web application to view subtitle files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^5.20.3"
+  },
+  "keywords": [
+    "subtitles",
+    "srt",
+    "viewer"
+  ],
+  "author": "",
+  "license": "MIT"
+}
