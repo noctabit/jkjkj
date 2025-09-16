@@ -1,0 +1,8055 @@
+﻿1
+00:00:41,106 --> 00:00:43,340
+- AAMIR TAAKI: It's no longer
+the era of industry.
+
+2
+00:00:43,442 --> 00:00:46,943
+We're in a technological era,
+fundamentally.
+
+3
+00:00:49,281 --> 00:00:52,349
+The fascists, they have
+the resources.
+
+4
+00:00:52,451 --> 00:00:54,785
+But we have imagination.
+
+5
+00:00:54,887 --> 00:00:58,555
+We are making the tools to take
+back our sovereignty.
+
+6
+00:00:59,792 --> 00:01:02,159
+When we make a giant
+"fuck you" to the system,
+
+7
+00:01:02,261 --> 00:01:03,693
+it's breaking that stranglehold
+
+8
+00:01:03,796 --> 00:01:08,732
+on the tools of power
+that's used against us.
+
+9
+00:01:08,834 --> 00:01:11,435
+The fascists always use
+the narrative of,
+
+10
+00:01:11,537 --> 00:01:13,970
+"We are the white knights
+in shining armor
+
+11
+00:01:14,073 --> 00:01:16,039
+"protecting against the threats.
+
+12
+00:01:16,141 --> 00:01:21,311
+We come here and we move out
+the dark with pure whiteness."
+
+13
+00:01:21,413 --> 00:01:23,713
+That's a false narrative,
+
+14
+00:01:23,816 --> 00:01:27,617
+because there is corruption
+in those castles.
+
+15
+00:01:27,719 --> 00:01:31,021
+The real base of
+power lies with us.
+
+16
+00:01:31,123 --> 00:01:32,989
+We are the darkness.
+
+17
+00:02:14,032 --> 00:02:15,932
+- MALE NEWSCASTER: A trial,
+which potentially,
+
+18
+00:02:16,034 --> 00:02:18,101
+could have very
+far-reaching implications
+
+19
+00:02:18,203 --> 00:02:21,471
+has just started
+in New York City.
+
+20
+00:02:21,573 --> 00:02:23,507
+- MALE NEWSCASTER #2: A jury
+will decide a case
+
+21
+00:02:23,609 --> 00:02:25,509
+that could impact the future
+of internet privacy.
+
+22
+00:02:25,611 --> 00:02:27,477
+- FEMALE REPORTER: Thousands
+of drugs came through
+
+23
+00:02:27,579 --> 00:02:30,881
+the black website
+called "Silk Road."
+
+24
+00:02:30,983 --> 00:02:32,816
+- MAN: The government
+overstepped their boundaries
+
+25
+00:02:32,918 --> 00:02:35,352
+to acquire the info
+they claim they have.
+
+26
+00:02:35,454 --> 00:02:36,620
+- This is not going away.
+
+27
+00:02:36,722 --> 00:02:38,788
+- This is gonna be
+the biggest takedown
+
+28
+00:02:38,891 --> 00:02:42,626
+of what is currently
+in existence.
+
+29
+00:02:46,698 --> 00:02:49,633
+- KEANU REEVES NARRATING:
+On January 13, 2015,
+
+30
+00:02:49,735 --> 00:02:51,368
+a criminal trial began
+
+31
+00:02:51,470 --> 00:02:52,969
+for the accused leader
+of the Silk Road,
+
+32
+00:02:53,071 --> 00:02:55,539
+a black market in an area
+of the internet
+
+33
+00:02:55,641 --> 00:02:59,676
+known as "the deep web."
+
+34
+00:02:59,778 --> 00:03:02,846
+The deep web is vast,
+thousands of times larger
+
+35
+00:03:02,948 --> 00:03:07,117
+than the visible internet,
+what's called the "surface web."
+
+36
+00:03:07,219 --> 00:03:09,052
+But the deep web is not a place.
+
+37
+00:03:09,154 --> 00:03:12,689
+It simply accounts for all of
+the unindexed content online--
+
+38
+00:03:12,791 --> 00:03:15,492
+banking data, administrative
+code for governments,
+
+39
+00:03:15,594 --> 00:03:17,861
+corporations and universities.
+
+40
+00:03:17,963 --> 00:03:20,964
+It's like looking under
+the hood of the internet.
+
+41
+00:03:21,066 --> 00:03:23,233
+Over time, the deep web
+became inhabited
+
+42
+00:03:23,335 --> 00:03:25,368
+by people of all types
+
+43
+00:03:25,470 --> 00:03:27,904
+who wanted to use this
+terrain for privacy.
+
+44
+00:03:28,006 --> 00:03:31,474
+This hidden area of the deep web
+is called the "dark net"
+
+45
+00:03:31,577 --> 00:03:34,678
+and it's accessible with
+a software service called "Tor,"
+
+46
+00:03:34,780 --> 00:03:36,947
+originally developed
+by the US military
+
+47
+00:03:37,049 --> 00:03:39,916
+and now open source
+and publicly funded.
+
+48
+00:03:40,018 --> 00:03:42,018
+And while law enforcement
+and the media
+
+49
+00:03:42,120 --> 00:03:44,321
+have painted a picture
+that Tor and the dark net
+
+50
+00:03:44,423 --> 00:03:46,423
+are nefarious tools
+for criminals,
+
+51
+00:03:46,525 --> 00:03:48,225
+it's important to
+understand that they are
+
+52
+00:03:48,327 --> 00:03:52,128
+largely used for good by
+government agencies, journalists
+
+53
+00:03:52,231 --> 00:03:55,031
+and dissidents around the world.
+
+54
+00:04:01,039 --> 00:04:03,607
+- REEVES NARRATING:
+In the summer of 2011,
+
+55
+00:04:03,709 --> 00:04:06,943
+an ad for the Silk Road
+appeared on the dark net.
+
+56
+00:04:07,045 --> 00:04:10,847
+The Silk Road was an underground
+exchange for any type of goods,
+
+57
+00:04:10,949 --> 00:04:14,017
+but mostly it was
+used for drugs.
+
+58
+00:04:14,119 --> 00:04:16,586
+There have always been
+drug markets online,
+
+59
+00:04:16,688 --> 00:04:18,655
+but none with the scale,
+sophistication
+
+60
+00:04:18,757 --> 00:04:21,524
+and ease of use
+as the Silk Road.
+
+61
+00:04:21,627 --> 00:04:24,761
+It would not remain
+underground for long.
+
+62
+00:04:24,863 --> 00:04:26,730
+- MALE NEWSCASTER: Hundreds
+of thousands of users
+
+63
+00:04:26,832 --> 00:04:28,398
+use the impossible-to-trace
+
+64
+00:04:28,500 --> 00:04:31,501
+website which sells drugs,
+forged documents
+
+65
+00:04:31,603 --> 00:04:33,336
+and even hit men.
+
+66
+00:04:33,438 --> 00:04:35,438
+It's called the Silk Road.
+
+67
+00:04:35,540 --> 00:04:37,907
+Just look at some
+of the 13,000 items
+
+68
+00:04:38,010 --> 00:04:40,477
+offered through
+that underground site.
+
+69
+00:04:40,579 --> 00:04:43,780
+Ultra clean cocaine,
+clean and real LSD,
+
+70
+00:04:43,882 --> 00:04:47,284
+high grade MDMA,
+also known as "Molly"--
+
+71
+00:04:47,386 --> 00:04:49,386
+all with fast and free shipping.
+
+72
+00:04:49,488 --> 00:04:53,556
+It generated roughly
+$1.2 billion in sales
+
+73
+00:04:53,659 --> 00:04:58,094
+with nearly 960,000 users,
+both buyers and sellers,
+
+74
+00:04:58,196 --> 00:05:01,097
+in the US and more than a dozen
+other countries worldwide.
+
+75
+00:05:01,199 --> 00:05:04,901
+YouTube videos like this one
+with 15,000 views
+
+76
+00:05:05,003 --> 00:05:08,605
+tell anyone how to download
+an untraceable technology
+
+77
+00:05:08,707 --> 00:05:10,940
+known as Tor that pulls data
+
+78
+00:05:11,043 --> 00:05:13,376
+from thousands
+of computers worldwide
+
+79
+00:05:13,478 --> 00:05:15,979
+to create this wide
+open marketplace.
+
+80
+00:05:16,081 --> 00:05:18,348
+- MALE NEWSCASTER #2: This
+hidden internet is underpinned
+
+81
+00:05:18,450 --> 00:05:21,418
+by a virtual currency
+called "Bitcoin."
+
+82
+00:05:21,520 --> 00:05:23,753
+Bitcoins offer anonymized
+transactions,
+
+83
+00:05:23,855 --> 00:05:27,724
+which can be almost impossible
+for the police to trace.
+
+84
+00:05:27,826 --> 00:05:30,994
+- MAN: Heroin, opium, cannabis,
+ecstasy, psychedelics,
+
+85
+00:05:31,096 --> 00:05:37,200
+stimulants, opioids--
+and here they are.
+
+86
+00:05:37,302 --> 00:05:39,536
+So, oxycodone, all of those.
+
+87
+00:05:39,638 --> 00:05:41,871
+Codeine, black tar heroin.
+
+88
+00:05:41,973 --> 00:05:43,707
+You name it, they have it.
+
+89
+00:05:43,809 --> 00:05:46,476
+They're all listed in the...
+in the light of day.
+
+90
+00:05:46,578 --> 00:05:47,977
+It's unbelievable.
+
+91
+00:05:48,080 --> 00:05:50,080
+- REEVES NARRATING:
+The Silk Road's success
+
+92
+00:05:50,182 --> 00:05:54,050
+was largely due to an innovative
+combination of Tor and Bitcoin.
+
+93
+00:05:54,152 --> 00:05:57,320
+Bitcoin is a technology that
+uses cryptographic code
+
+94
+00:05:57,422 --> 00:05:59,489
+to create digital currency.
+
+95
+00:05:59,591 --> 00:06:01,591
+The sender transmits their
+Bitcoin code through a ledger
+
+96
+00:06:01,693 --> 00:06:04,928
+called the "block chain"
+to arrive at the recipient.
+
+97
+00:06:05,030 --> 00:06:07,797
+Bitcoin is not
+perfectly anonymous.
+
+98
+00:06:07,899 --> 00:06:10,433
+But if used carefully, it
+facilitates online purchases
+
+99
+00:06:10,535 --> 00:06:12,802
+without revealing identity.
+
+100
+00:06:12,904 --> 00:06:15,472
+Bitcoin was an ideal currency
+for the Silk Road,
+
+101
+00:06:15,574 --> 00:06:18,541
+because it allows for anonymity
+and is outside the control
+
+102
+00:06:18,643 --> 00:06:20,944
+of banks and governments.
+
+103
+00:06:27,119 --> 00:06:29,185
+- MAN: I really became
+aware of the Silk Road
+
+104
+00:06:29,287 --> 00:06:33,256
+when Adrian Chen at Gawker,
+uh, did his profile.
+
+105
+00:06:35,994 --> 00:06:38,361
+I think in a way,
+that story, as much as
+
+106
+00:06:38,463 --> 00:06:41,731
+it documented the Silk Road,
+it created the Silk Road, too.
+
+107
+00:06:41,833 --> 00:06:44,467
+I mean it...it drove so
+many people to the site.
+
+108
+00:06:44,569 --> 00:06:46,836
+I think it probably was
+an order of magnitude increase
+
+109
+00:06:46,938 --> 00:06:48,838
+in users on the Silk Road.
+
+110
+00:06:48,940 --> 00:06:51,975
+So from that point on, I felt
+like I had missed the story
+
+111
+00:06:52,077 --> 00:06:55,111
+and I...I wanted the next big
+story on the Silk Road.
+
+112
+00:06:55,213 --> 00:06:59,716
+But I was also just fascinated
+with the community that was,
+
+113
+00:06:59,818 --> 00:07:02,085
+you know, being created there.
+
+114
+00:07:02,187 --> 00:07:06,256
+EBay doesn't have that
+kind of user community.
+
+115
+00:07:06,358 --> 00:07:10,794
+This was like a really
+tight-knit movement of people.
+
+116
+00:07:10,896 --> 00:07:14,864
+It was a fascinating thing
+just to lurk around in.
+
+117
+00:07:14,966 --> 00:07:18,635
+- MAN: It's a certifiable,
+one-stop shop for illegal drugs
+
+118
+00:07:18,737 --> 00:07:21,704
+that represents
+the most brazen attempt
+
+119
+00:07:21,807 --> 00:07:24,674
+to peddle drugs online
+that we have ever seen.
+
+120
+00:07:24,776 --> 00:07:27,544
+It's more brazen than anything
+else by light-years.
+
+121
+00:07:27,646 --> 00:07:31,014
+- I mean, they had a really big,
+you know, target on their back.
+
+122
+00:07:31,116 --> 00:07:36,152
+And they even had been taunting,
+to some extent, law enforcement
+
+123
+00:07:36,254 --> 00:07:39,923
+and, you know, the powers that
+be by doing this in the open.
+
+124
+00:07:40,025 --> 00:07:43,326
+And that's actually part of what
+this marketplace is all about.
+
+125
+00:07:43,428 --> 00:07:47,797
+It's not so much about selling
+drugs as much as it is to say,
+
+126
+00:07:47,899 --> 00:07:51,901
+to make a political
+statement of sorts, right?
+
+127
+00:07:52,003 --> 00:07:53,536
+"This shouldn't be prohibited.
+
+128
+00:07:53,638 --> 00:07:55,104
+"We're free to do what we want
+
+129
+00:07:55,207 --> 00:07:56,606
+"and we have
+the technology to do it.
+
+130
+00:07:56,708 --> 00:07:58,174
+So there."
+
+131
+00:07:58,276 --> 00:07:59,476
+- REEVES NARRATING:
+The news around the Silk Road
+
+132
+00:07:59,578 --> 00:08:01,177
+came almost entirely
+
+133
+00:08:01,279 --> 00:08:03,546
+from law enforcement
+and government officials
+
+134
+00:08:03,648 --> 00:08:05,715
+with little insight from those
+
+135
+00:08:05,817 --> 00:08:07,517
+who were behind
+the market itself.
+
+136
+00:08:07,619 --> 00:08:10,086
+So the core architects
+and vendors of the Silk Road
+
+137
+00:08:10,188 --> 00:08:13,823
+were sought out using encryption
+keys to verify their identities
+
+138
+00:08:13,925 --> 00:08:16,426
+and preserving their anonymity.
+
+139
+00:08:16,528 --> 00:08:19,429
+This is the first time
+they have spoken publicly.
+
+140
+00:08:19,531 --> 00:08:23,366
+- [digitally-altered voice]
+
+141
+00:08:34,546 --> 00:08:36,679
+- REEVES NARRATING:
+The Silk Road didn't appear
+
+142
+00:08:36,781 --> 00:08:38,381
+to have a single leader.
+
+143
+00:08:38,483 --> 00:08:40,850
+There were the regular posts
+from the systems administrator,
+
+144
+00:08:40,952 --> 00:08:43,286
+but otherwise the service
+appeared to be
+
+145
+00:08:43,388 --> 00:08:44,888
+primarily community-run.
+
+146
+00:08:44,990 --> 00:08:48,424
+Then on February 5, 2012,
+after a highly successful
+
+147
+00:08:48,527 --> 00:08:50,026
+first year of business,
+
+148
+00:08:50,128 --> 00:08:52,195
+the Silk Road administrator
+made an announcement...
+
+149
+00:09:03,875 --> 00:09:05,708
+- You're the Dread Pirate
+Roberts, admit it.
+
+150
+00:09:05,810 --> 00:09:07,243
+- With pride.
+
+151
+00:09:07,345 --> 00:09:09,112
+- REEVES NARRATING:
+The Dread Pirate Roberts
+
+152
+00:09:09,214 --> 00:09:10,613
+was cribbed from the mythical
+character from the novel
+
+153
+00:09:10,715 --> 00:09:14,817
+and film "The Princess Bride,"
+and the choice was no accident.
+
+154
+00:09:14,920 --> 00:09:16,853
+In the original story
+by William Goldman,
+
+155
+00:09:16,955 --> 00:09:19,722
+the Dread Pirate Roberts
+was a nom de guerre handed down
+
+156
+00:09:19,824 --> 00:09:22,725
+from user to user and passed
+along eternally.
+
+157
+00:09:22,827 --> 00:09:24,260
+- The man I inherited it from
+
+158
+00:09:24,362 --> 00:09:26,095
+was not the real
+Dread Pirate Roberts either.
+
+159
+00:09:26,197 --> 00:09:27,697
+The real Roberts has
+been retired 15 years
+
+160
+00:09:27,799 --> 00:09:29,532
+and I have been
+Roberts ever since.
+
+161
+00:09:29,634 --> 00:09:31,668
+I shall retire and hand
+the name over to someone else.
+
+162
+00:09:31,770 --> 00:09:34,470
+- REEVES NARRATING: This Dread
+Pirate Roberts, or DPR,
+
+163
+00:09:34,573 --> 00:09:37,373
+would come to spearhead
+the Silk Road forums and was
+
+164
+00:09:37,475 --> 00:09:40,510
+generally assumed to be the
+creator and owner of the site.
+
+165
+00:09:40,612 --> 00:09:42,545
+- The Dread Pirate Roberts
+to me seemed to be
+
+166
+00:09:42,647 --> 00:09:45,815
+kind of the most interesting
+figure in that whole world.
+
+167
+00:09:45,917 --> 00:09:48,184
+On the Silk Road forums,
+he was constantly posting
+
+168
+00:09:48,286 --> 00:09:51,821
+these manifestos and love
+letters to his users
+
+169
+00:09:51,923 --> 00:09:54,424
+and Libertarian
+philosophical treaties.
+
+170
+00:09:54,526 --> 00:09:57,994
+And he even had like this, uh,
+Dread Pirate Roberts book club
+
+171
+00:09:58,096 --> 00:10:01,197
+where he hosted discussions
+of Austrian economics
+
+172
+00:10:01,299 --> 00:10:04,000
+and free market philosophy.
+
+173
+00:10:04,102 --> 00:10:06,402
+At the same time,
+nobody knew who he was.
+
+174
+00:10:06,504 --> 00:10:09,172
+He had never spoken
+to the press before.
+
+175
+00:10:09,274 --> 00:10:13,042
+I approached him on the Silk
+Road forum mid-2012 and, uh,
+
+176
+00:10:13,144 --> 00:10:16,179
+started kind of just like trying
+to persuade him to talk,
+
+177
+00:10:16,281 --> 00:10:18,815
+chipping away at him and just
+bugging him constantly.
+
+178
+00:10:23,655 --> 00:10:25,021
+- GREENBERG:
+The actual trigger,
+
+179
+00:10:25,123 --> 00:10:26,990
+I think that made him
+decide to talk
+
+180
+00:10:27,092 --> 00:10:30,393
+was this competing dark
+website called "Atlantis."
+
+181
+00:10:30,495 --> 00:10:32,729
+They were really
+much more aggressive
+
+182
+00:10:32,831 --> 00:10:35,999
+in their marketing
+than the Silk Road.
+
+183
+00:10:36,101 --> 00:10:39,402
+They put out this YouTube video
+advertising Atlantis
+
+184
+00:10:39,504 --> 00:10:44,173
+as the...the new, better
+dark web drug site.
+
+185
+00:10:44,275 --> 00:10:46,442
+So when I went back to
+the Dread Pirate Roberts
+
+186
+00:10:46,544 --> 00:10:48,945
+and said, "You know,
+I'm going to do this story.
+
+187
+00:10:49,047 --> 00:10:51,447
+It can either be about Atlantis
+or it can be about you,"
+
+188
+00:10:51,549 --> 00:10:54,283
+I think he realized that,
+you know, that...
+
+189
+00:10:54,386 --> 00:10:56,586
+He was a savvy business
+guy who realized
+
+190
+00:10:56,688 --> 00:10:58,321
+he had to talk at that point.
+
+191
+00:10:58,423 --> 00:11:00,423
+He did have a kind
+of political message
+
+192
+00:11:00,525 --> 00:11:02,325
+that he wanted to get out,
+and I could see that
+
+193
+00:11:02,427 --> 00:11:04,560
+in what he was posting
+on the forums.
+
+194
+00:11:04,663 --> 00:11:06,496
+So I kind of played up to that
+and I told him like,
+
+195
+00:11:06,598 --> 00:11:09,165
+"I can be the...the vessel
+for you to talk about
+
+196
+00:11:09,267 --> 00:11:11,000
+what the Silk Road
+really represents,"
+
+197
+00:11:11,102 --> 00:11:12,802
+and I think that
+that appealed to him.
+
+198
+00:11:12,904 --> 00:11:14,070
+So it took eight months,
+
+199
+00:11:14,172 --> 00:11:15,738
+but finally he did agree
+to an interview.
+
+200
+00:11:18,743 --> 00:11:21,144
+- GREENBERG: Of course he...
+he didn't tell me anything
+
+201
+00:11:21,246 --> 00:11:25,014
+about himself--where he lives,
+you know, his age, identity,
+
+202
+00:11:25,116 --> 00:11:27,483
+uh, anything that could
+be remotely identifying.
+
+203
+00:11:30,822 --> 00:11:32,855
+- REEVE SPEAKING AS DPR:
+"I didn't start the Silk Road.
+
+204
+00:11:32,957 --> 00:11:34,657
+"My predecessor did.
+
+205
+00:11:34,759 --> 00:11:37,026
+"From what I understand it was
+an original idea to combine
+
+206
+00:11:37,128 --> 00:11:40,063
+"Bitcoin and Tor to create
+an anonymous market.
+
+207
+00:11:40,165 --> 00:11:43,232
+"Everything was in place.
+He just put the pieces together.
+
+208
+00:11:43,334 --> 00:11:45,068
+"The most I'm willing
+to reveal is that I am not
+
+209
+00:11:45,170 --> 00:11:47,470
+the first administrator
+of Silk Road."
+
+210
+00:11:47,572 --> 00:11:49,972
+- He was incredibly
+secretive, of course,
+
+211
+00:11:50,075 --> 00:11:53,076
+about the inner workings
+of the Silk Road and,
+
+212
+00:11:53,178 --> 00:11:55,244
+you know, his own identity,
+of course.
+
+213
+00:11:55,346 --> 00:11:57,113
+I mean he was hunted by
+
+214
+00:11:57,215 --> 00:11:59,282
+every law enforcement agency
+that you can imagine.
+
+215
+00:12:02,721 --> 00:12:04,587
+- REEVES SPEAKING AS DPR:
+"The management of Silk Road
+
+216
+00:12:04,689 --> 00:12:06,089
+"is a collaborative effort.
+
+217
+00:12:06,191 --> 00:12:08,491
+"It's not just me making sure
+Silk Road runs smoothly.
+
+218
+00:12:08,593 --> 00:12:10,326
+"More often than not,
+the best ideas
+
+219
+00:12:10,428 --> 00:12:12,528
+come from the community itself."
+
+220
+00:12:12,630 --> 00:12:14,297
+- But he did tell me like
+some interesting things
+
+221
+00:12:14,399 --> 00:12:16,199
+about how he viewed
+himself and his...and...
+
+222
+00:12:16,301 --> 00:12:18,468
+and the way that
+the Silk Road works.
+
+223
+00:12:21,106 --> 00:12:22,405
+- REEVES SPEAKING AS DPR:
+"We don't allow the sale
+
+224
+00:12:22,507 --> 00:12:24,774
+"of anything that's main purpose
+is to harm innocent people
+
+225
+00:12:24,876 --> 00:12:26,442
+"or that it was necessary
+
+226
+00:12:26,544 --> 00:12:28,144
+"to harm innocent people
+to bring to market.
+
+227
+00:12:28,246 --> 00:12:30,379
+"For example, anything
+stolen is forbidden.
+
+228
+00:12:30,482 --> 00:12:32,048
+"Counterfeit money and coupons
+
+229
+00:12:32,150 --> 00:12:33,783
+"which are used
+to defraud people.
+
+230
+00:12:33,885 --> 00:12:36,719
+"Hit men aren't allowed and
+neither is child pornography.
+
+231
+00:12:36,821 --> 00:12:40,256
+No substance on Silk Road falls
+under those guidelines."
+
+232
+00:12:40,358 --> 00:12:42,425
+- This went beyond just,
+you know,
+
+233
+00:12:42,527 --> 00:12:45,728
+like legalizing marijuana
+or even heroin.
+
+234
+00:12:45,830 --> 00:12:49,632
+He wanted to see a...a new
+relationship between individuals
+
+235
+00:12:49,734 --> 00:12:52,735
+and the government,
+where the government was,
+
+236
+00:12:52,837 --> 00:12:54,971
+you know, basically hamstrung
+and couldn't control
+
+237
+00:12:55,073 --> 00:12:57,140
+what people bought and sold.
+
+238
+00:13:00,578 --> 00:13:02,411
+- REEVES SPEAKING AS DPR:
+"At its core, Silk Road is a way
+
+239
+00:13:02,514 --> 00:13:05,047
+"to get around regulation
+from the state.
+
+240
+00:13:05,150 --> 00:13:07,150
+"The state tries to control
+nearly every aspect
+
+241
+00:13:07,252 --> 00:13:10,052
+"of our lives,
+not just drug use.
+
+242
+00:13:10,155 --> 00:13:12,221
+"Anywhere they do that,
+there's an opportunity
+
+243
+00:13:12,323 --> 00:13:16,225
+to live your life as you see
+fit, despite their efforts."
+
+244
+00:13:16,327 --> 00:13:18,261
+- I guess I shouldn't generally
+say this kind of thing,
+
+245
+00:13:18,363 --> 00:13:20,196
+but I really liked
+the Dread Pirate Roberts
+
+246
+00:13:20,298 --> 00:13:21,731
+that I interviewed.
+
+247
+00:13:21,833 --> 00:13:25,234
+I thought he was, you know, uh,
+a really super-interesting guy
+
+248
+00:13:25,336 --> 00:13:28,171
+with a really
+coherent philosophy.
+
+249
+00:13:28,273 --> 00:13:30,706
+He came across to me as
+this kind of middle-aged,
+
+250
+00:13:30,809 --> 00:13:32,842
+wise man figure, you know?
+
+251
+00:13:32,944 --> 00:13:34,610
+- REEVES NARRATING:
+But not everyone on Silk Road
+
+252
+00:13:34,712 --> 00:13:37,380
+believed in Libertarian
+philosophy.
+
+253
+00:13:37,482 --> 00:13:39,315
+Bringing an end to
+the drug war was the agenda
+
+254
+00:13:39,417 --> 00:13:42,084
+that truly united
+the community.
+
+255
+00:13:42,187 --> 00:13:48,157
+- [digitally-altered voice]
+
+256
+00:14:33,071 --> 00:14:35,271
+- I could see that
+the Silk Road
+
+257
+00:14:35,373 --> 00:14:38,407
+wasn't just another
+cyber-criminal scheme.
+
+258
+00:14:38,509 --> 00:14:41,677
+This was a guy who saw himself
+as the leader of a movement.
+
+259
+00:14:41,779 --> 00:14:43,713
+- REEVES SPEAKING AS DPR:
+"One thing I've learned
+
+260
+00:14:43,815 --> 00:14:45,681
+"playing Dread Pirate Roberts
+is that your actions
+
+261
+00:14:45,783 --> 00:14:48,918
+"are sure to please some
+and infuriate others.
+
+262
+00:14:49,020 --> 00:14:51,053
+"But we can't stay
+silent forever.
+
+263
+00:14:51,155 --> 00:14:52,521
+"We have an important message.
+
+264
+00:14:52,624 --> 00:14:55,391
+"And the time is ripe for
+the world to hear it.
+
+265
+00:14:55,493 --> 00:14:57,360
+"What we're doing
+isn't about scoring drugs
+
+266
+00:14:57,462 --> 00:14:59,262
+"or sticking it to the man.
+
+267
+00:14:59,364 --> 00:15:01,564
+"It's about standing up for
+our rights as human beings
+
+268
+00:15:01,666 --> 00:15:05,101
+"and refusing to submit when
+we've done no wrong.
+
+269
+00:15:05,203 --> 00:15:07,703
+"Silk Road is a vehicle
+for that message.
+
+270
+00:15:07,805 --> 00:15:10,506
+All else is secondary."
+
+271
+00:15:10,608 --> 00:15:12,541
+- The Silk Road
+functioned because
+
+272
+00:15:12,644 --> 00:15:14,510
+the Dread Pirate Roberts
+was trusted.
+
+273
+00:15:14,612 --> 00:15:16,679
+At any point, he could have
+shut down the Silk Road
+
+274
+00:15:16,781 --> 00:15:18,948
+and run away with
+everyone's Bitcoins.
+
+275
+00:15:19,050 --> 00:15:20,449
+We've seen that happen
+
+276
+00:15:20,551 --> 00:15:22,652
+with a bunch of other
+dark web businesses.
+
+277
+00:15:24,022 --> 00:15:26,355
+And I think people believed that
+he wouldn't because they felt
+
+278
+00:15:26,457 --> 00:15:29,825
+that he was a true believer
+in this kind of radically
+
+279
+00:15:29,928 --> 00:15:35,031
+Libertarian, crypto-anarchic
+philosophy that, you know,
+
+280
+00:15:35,133 --> 00:15:38,734
+goes back to the cypherpunks
+of the 1990s.
+
+281
+00:15:38,836 --> 00:15:41,037
+- REEVES NARRATING: Twenty-five
+years ago, in the Bay Area,
+
+282
+00:15:41,139 --> 00:15:43,005
+a burgeoning group of
+mathematicians,
+
+283
+00:15:43,107 --> 00:15:45,007
+crypto-anarchists and hackers
+
+284
+00:15:45,109 --> 00:15:47,310
+began to meet in
+each other's homes.
+
+285
+00:15:47,412 --> 00:15:49,145
+This tight-knit group
+
+286
+00:15:49,247 --> 00:15:51,881
+came to be casually
+known as the "cypherpunks."
+
+287
+00:15:51,983 --> 00:15:54,750
+These original members were
+not socially motivated,
+
+288
+00:15:54,852 --> 00:15:56,819
+but more concerned
+with the hard math
+
+289
+00:15:56,921 --> 00:15:58,454
+of cryptographic technology
+
+290
+00:15:58,556 --> 00:16:01,157
+and the broader philosophy
+of anonymity,
+
+291
+00:16:01,259 --> 00:16:03,025
+individual liberty and privacy.
+
+292
+00:16:03,127 --> 00:16:04,994
+- The government has
+this clear policy of
+
+293
+00:16:05,096 --> 00:16:06,929
+access to all plain text,
+
+294
+00:16:07,031 --> 00:16:08,664
+meaning whatever you're saying--
+they want access to.
+
+295
+00:16:08,766 --> 00:16:11,233
+If it's stored on your hard
+disk, they want access to it.
+
+296
+00:16:11,336 --> 00:16:13,569
+If it so goes over the wire,
+they want access to it.
+
+297
+00:16:13,671 --> 00:16:15,237
+If you are proxying speech
+for someone else,
+
+298
+00:16:15,340 --> 00:16:17,606
+they wanna know who it is.
+
+299
+00:16:17,709 --> 00:16:19,575
+- REEVES NARRATING: The
+cypherpunks were instrumental
+
+300
+00:16:19,677 --> 00:16:23,312
+in the growing movement towards
+privacy and anonymity online.
+
+301
+00:16:23,414 --> 00:16:24,780
+And they would pioneer the way
+
+302
+00:16:24,882 --> 00:16:27,683
+into the hidden corners
+of the internet.
+
+303
+00:16:27,785 --> 00:16:30,720
+- Maybe the big turning point
+for the cypherpunks,
+
+304
+00:16:30,822 --> 00:16:33,856
+I think, was WikiLeaks
+and Julian Assange
+
+305
+00:16:33,958 --> 00:16:35,391
+and Jacob Appelbaum's idea
+
+306
+00:16:35,493 --> 00:16:37,493
+of what it means
+to be a cypherpunk.
+
+307
+00:16:37,595 --> 00:16:40,296
+- You cannot trust a government
+to implement the policies
+
+308
+00:16:40,398 --> 00:16:42,465
+that it says that
+it's implementing.
+
+309
+00:16:42,567 --> 00:16:46,335
+And so we must provide
+the underlying tools,
+
+310
+00:16:46,437 --> 00:16:47,603
+secret cryptographic codes
+
+311
+00:16:47,705 --> 00:16:49,338
+that the government
+couldn't spy on
+
+312
+00:16:49,440 --> 00:16:52,475
+to everyone as a sort
+of use of force.
+
+313
+00:16:52,577 --> 00:16:56,212
+And a government no matter
+how hard it tries,
+
+314
+00:16:56,314 --> 00:16:57,680
+if the cyphers are good,
+
+315
+00:16:57,782 --> 00:17:00,950
+uh, cannot break into your
+communications directly.
+
+316
+00:17:01,052 --> 00:17:03,686
+- Force of authority
+is derived from violence.
+
+317
+00:17:03,788 --> 00:17:05,087
+One must acknowledge
+with cryptography,
+
+318
+00:17:05,189 --> 00:17:06,922
+no amount of violence will ever
+solve a math problem.
+
+319
+00:17:07,025 --> 00:17:09,125
+- ASSANGE: Exactly.
+- And this is the important key.
+
+320
+00:17:09,227 --> 00:17:10,826
+It doesn't mean you
+can't be tortured.
+
+321
+00:17:10,928 --> 00:17:13,062
+It doesn't mean that they can't
+try to bug your house
+
+322
+00:17:13,164 --> 00:17:14,663
+or subvert it in some way,
+
+323
+00:17:14,766 --> 00:17:16,132
+but it means if they find
+an encrypted message
+
+324
+00:17:16,234 --> 00:17:18,234
+it doesn't matter if they have
+the force of the authority
+
+325
+00:17:18,336 --> 00:17:19,602
+behind everything that they do.
+
+326
+00:17:19,704 --> 00:17:22,304
+They cannot solve
+that math problem.
+
+327
+00:17:22,407 --> 00:17:25,174
+- This movement is not
+about the destruction of law.
+
+328
+00:17:25,276 --> 00:17:29,378
+- CROWD: This movement is not
+about the destruction of law.
+
+329
+00:17:29,480 --> 00:17:32,882
+- It is about
+the construction of law.
+
+330
+00:17:32,984 --> 00:17:34,283
+- GREENBERG: These are guys
+who want to create
+
+331
+00:17:34,385 --> 00:17:36,919
+encryption tools that
+everybody can use.
+
+332
+00:17:37,021 --> 00:17:38,788
+It's not just for the elite.
+
+333
+00:17:38,890 --> 00:17:41,490
+It's...it's trying to shift
+the way that the internet works
+
+334
+00:17:41,592 --> 00:17:45,161
+to provide secrecy and anonymity
+and privacy to everyone,
+
+335
+00:17:45,263 --> 00:17:49,498
+you know, so like, um, it's
+a much more populist movement.
+
+336
+00:17:49,600 --> 00:17:52,635
+- There is a community
+of people in the security
+
+337
+00:17:52,737 --> 00:17:55,938
+and cryptography space
+who want to live in a world
+
+338
+00:17:56,040 --> 00:17:58,674
+where the government cannot
+record their emails,
+
+339
+00:17:58,776 --> 00:18:00,609
+cannot listen to
+their telephone calls,
+
+340
+00:18:00,711 --> 00:18:02,645
+cannot see who they're
+spending time with.
+
+341
+00:18:02,747 --> 00:18:05,047
+And they're trying
+to build tools.
+
+342
+00:18:05,149 --> 00:18:07,616
+They're trying to build
+protocols and services
+
+343
+00:18:07,718 --> 00:18:09,885
+that can facilitate
+that kind of anonymous
+
+344
+00:18:09,987 --> 00:18:11,954
+and private exchange
+of information.
+
+345
+00:18:12,056 --> 00:18:14,023
+- I actually think this
+all comes down to
+
+346
+00:18:14,125 --> 00:18:16,492
+wanting to live a free life.
+
+347
+00:18:16,594 --> 00:18:19,929
+And the recognition which really
+predates all technology,
+
+348
+00:18:20,031 --> 00:18:23,399
+that an observed life is not
+a completely free life,
+
+349
+00:18:23,501 --> 00:18:27,036
+that a zone of privacy
+is just a core human value.
+
+350
+00:18:27,138 --> 00:18:32,074
+And the technology to me
+is just an incarnation
+
+351
+00:18:32,176 --> 00:18:34,210
+of those basic human values.
+
+352
+00:18:34,312 --> 00:18:37,880
+And I think that the people who
+are trying to build currencies
+
+353
+00:18:37,982 --> 00:18:40,483
+that are free of tracking
+and government control
+
+354
+00:18:40,585 --> 00:18:43,319
+and technologies that let you
+have a private conversation
+
+355
+00:18:43,421 --> 00:18:48,190
+and those kinds of things are
+just people who are seeing that
+
+356
+00:18:48,292 --> 00:18:53,062
+the technology can both enable
+and disable that space.
+
+357
+00:18:53,164 --> 00:18:56,699
+- MAN: There are more
+cypherpunks than ever before.
+
+358
+00:18:56,801 --> 00:18:59,335
+They want to entirely cripple
+
+359
+00:18:59,437 --> 00:19:01,237
+the government's ability
+to enforce law.
+
+360
+00:19:01,339 --> 00:19:04,607
+They want cryptography
+to make the rules
+
+361
+00:19:04,709 --> 00:19:06,876
+instead of law enforcement.
+
+362
+00:19:06,978 --> 00:19:09,512
+- REEVES NARRATING: Cody Wilson
+is a crypto-anarchist
+
+363
+00:19:09,614 --> 00:19:11,947
+best known for developing
+the Liberator,
+
+364
+00:19:12,049 --> 00:19:13,782
+a 3D printable gun
+
+365
+00:19:13,885 --> 00:19:16,619
+that was downloaded
+100,000 times in two days.
+
+366
+00:19:16,721 --> 00:19:18,587
+- When a group of
+baby boomers are told,
+
+367
+00:19:18,689 --> 00:19:20,623
+okay now 3D printers
+will print guns,
+
+368
+00:19:20,725 --> 00:19:22,525
+they can do nothing but say,
+
+369
+00:19:22,627 --> 00:19:24,560
+"Well, it's been nice living
+in the world I used to know."
+
+370
+00:19:24,662 --> 00:19:26,562
+We want to question
+the very foundation,
+
+371
+00:19:26,664 --> 00:19:28,697
+evacuate the very foundation
+
+372
+00:19:28,799 --> 00:19:33,802
+that this order, moral, ethical,
+political, is founded on.
+
+373
+00:19:33,905 --> 00:19:35,371
+- [gunshot firing]
+
+374
+00:19:35,473 --> 00:19:37,373
+- WILSON: To see beyond
+good and evil
+
+375
+00:19:37,475 --> 00:19:39,141
+and to allow something
+else to happen.
+
+376
+00:19:39,243 --> 00:19:41,510
+This is where the figure of DPR
+is so interesting to me.
+
+377
+00:19:41,612 --> 00:19:43,412
+Like is he a liberal?
+
+378
+00:19:43,514 --> 00:19:45,381
+Like is he a Misesian
+like he says he is?
+
+379
+00:19:45,483 --> 00:19:47,850
+Oh, he believes in Libertarian
+market principles,
+
+380
+00:19:47,952 --> 00:19:49,852
+and you know man against
+the state and all these...
+
+381
+00:19:49,954 --> 00:19:52,054
+these principles
+of freedom and axioms of...
+
+382
+00:19:52,156 --> 00:19:53,822
+Or...or is he someone else?
+
+383
+00:19:53,925 --> 00:19:55,824
+Like...like who I hope
+he is or someone
+
+384
+00:19:55,927 --> 00:19:57,860
+like I would try
+to hope to be,
+
+385
+00:19:57,962 --> 00:19:59,828
+who's just looking for
+a way, a mechanism,
+
+386
+00:19:59,931 --> 00:20:02,097
+to help peek beyond good
+and evil a little bit.
+
+387
+00:20:02,200 --> 00:20:05,634
+And is he more enthusiastic
+about what he's...
+
+388
+00:20:05,736 --> 00:20:10,005
+what he's allowed to be opened
+up, the doors he's opening.
+
+389
+00:20:10,107 --> 00:20:11,674
+- GREENBERG: Of course,
+there will be
+
+390
+00:20:11,776 --> 00:20:13,842
+a dark side to the dark web.
+
+391
+00:20:13,945 --> 00:20:15,711
+And if we want to enable this...
+
+392
+00:20:15,813 --> 00:20:17,313
+this true crypto-
+anarchic future,
+
+393
+00:20:17,415 --> 00:20:19,381
+anyone who's working on that,
+I think, has to reckon with
+
+394
+00:20:19,483 --> 00:20:23,919
+the fact that they're going to
+be enabling really nasty things
+
+395
+00:20:24,021 --> 00:20:27,189
+along with this kind of
+information freedom revolution
+
+396
+00:20:27,291 --> 00:20:29,358
+that they're taking part in.
+
+397
+00:20:29,460 --> 00:20:32,828
+- REEVES NARRATING: By August
+2012, business was booming.
+
+398
+00:20:32,930 --> 00:20:35,231
+The Silk Road had become
+a thriving, anonymous
+
+399
+00:20:35,333 --> 00:20:37,866
+and unregulated black market.
+
+400
+00:20:37,969 --> 00:20:39,935
+The internet being
+used in this way,
+
+401
+00:20:40,037 --> 00:20:42,571
+posed a major threat
+to the government,
+
+402
+00:20:42,673 --> 00:20:44,039
+greater perhaps
+than selling drugs.
+
+403
+00:20:44,141 --> 00:20:46,275
+- Even as a...a law
+enforcement officer,
+
+404
+00:20:46,377 --> 00:20:51,046
+I still wouldn't know where to
+go and buy crack on the streets
+
+405
+00:20:51,148 --> 00:20:54,750
+or buy heroin, but I do know
+how to go online and find it.
+
+406
+00:20:54,852 --> 00:20:56,619
+It's downloading some software
+and...and the next thing
+
+407
+00:20:56,721 --> 00:20:59,555
+you know you're there
+and you can purchase a service
+
+408
+00:20:59,657 --> 00:21:01,023
+or drugs very easily.
+
+409
+00:21:01,125 --> 00:21:04,093
+- MALE NEWSCASTER: Since
+when does a teenager
+
+410
+00:21:04,195 --> 00:21:06,662
+become obsessed with
+the daily mail delivery?
+
+411
+00:21:06,764 --> 00:21:10,532
+Fidgeting and pacing made
+this Fisher's mom suspicious.
+
+412
+00:21:10,635 --> 00:21:13,535
+So when her family's mail
+arrived, she grabbed it
+
+413
+00:21:13,638 --> 00:21:16,005
+and found a cartoon DVD box
+addressed to her son
+
+414
+00:21:16,107 --> 00:21:19,708
+with something extra--
+a package of white crystals.
+
+415
+00:21:19,810 --> 00:21:21,744
+So she confronted
+her 14-year-old
+
+416
+00:21:21,846 --> 00:21:24,146
+and both their lives
+changed forever.
+
+417
+00:21:24,248 --> 00:21:27,583
+- I don't think anybody really
+cared in law enforcement
+
+418
+00:21:27,685 --> 00:21:28,984
+until Senator Schumer went,
+
+419
+00:21:29,086 --> 00:21:30,986
+"Oh, my God, we've gotta do
+something about this."
+
+420
+00:21:31,088 --> 00:21:33,422
+- Today I'm calling on the DEA
+and the Department of Justice
+
+421
+00:21:33,524 --> 00:21:37,159
+to immediately shut this site
+down before more damage is done.
+
+422
+00:21:37,261 --> 00:21:39,194
+- SHIPLEY: Because if you think
+about what law enforcement
+
+423
+00:21:39,297 --> 00:21:42,564
+at the federal level has
+to do to even start a case,
+
+424
+00:21:42,667 --> 00:21:44,733
+I don't think this case
+would have been started
+
+425
+00:21:44,835 --> 00:21:46,902
+if it wasn't for some
+political impetus by, you know,
+
+426
+00:21:47,004 --> 00:21:49,505
+a senator saying,
+"We need to look into this."
+
+427
+00:21:49,607 --> 00:21:51,774
+- The FBI today shut down
+what it's calling
+
+428
+00:21:51,876 --> 00:21:53,909
+the most sophisticated
+internet site
+
+429
+00:21:54,011 --> 00:21:56,512
+in the business of
+selling hard drugs,
+
+430
+00:21:56,614 --> 00:21:59,248
+including heroin,
+cocaine and LSD.
+
+431
+00:21:59,350 --> 00:22:01,717
+Anyone trying to log
+on to the website today
+
+432
+00:22:01,819 --> 00:22:04,887
+found this notice:
+"Shut down by the FBI."
+
+433
+00:22:04,989 --> 00:22:06,889
+- MALE NEWSCASTER: It was
+a sophisticated electronic
+
+434
+00:22:06,991 --> 00:22:10,759
+smokescreen and it took federal
+agents almost two years.
+
+435
+00:22:10,861 --> 00:22:12,761
+- WOMAN: They were able to
+infiltrate the site,
+
+436
+00:22:12,863 --> 00:22:14,563
+but they made some of these
+purchases themselves
+
+437
+00:22:14,665 --> 00:22:16,498
+using undercover identities.
+
+438
+00:22:16,600 --> 00:22:18,767
+- The secretive
+Dread Pirate Roberts
+
+439
+00:22:18,869 --> 00:22:21,804
+was arrested in the most
+unlikely of places--
+
+440
+00:22:21,906 --> 00:22:25,007
+this local public library in
+this San Francisco neighborhood.
+
+441
+00:22:25,109 --> 00:22:28,844
+- MALE NEWSCASTER:
+The FBI seized $3.6 million
+
+442
+00:22:28,946 --> 00:22:33,082
+of Bitcoin's biggest haul
+in its five-year history.
+
+443
+00:22:47,465 --> 00:22:51,066
+- When the criminal complaint
+first appeared in October,
+
+444
+00:22:51,168 --> 00:22:56,338
+it describes this 29-year-old
+kid named Ross Ulbricht.
+
+445
+00:22:56,440 --> 00:22:59,508
+Not only do they say that he has
+run this billion-dollar plus
+
+446
+00:22:59,610 --> 00:23:02,811
+black market conspiracy and they
+accuse him of drug trafficking
+
+447
+00:23:02,913 --> 00:23:06,482
+and money laundering and somehow
+computer hacking charges,
+
+448
+00:23:06,584 --> 00:23:08,717
+as well, which is
+something that I had
+
+449
+00:23:08,819 --> 00:23:11,253
+never associated with
+the Silk Road.
+
+450
+00:23:11,355 --> 00:23:15,491
+But then also in this criminal
+complaint there is outlined
+
+451
+00:23:15,593 --> 00:23:17,926
+his plot to pay for the murders
+
+452
+00:23:18,028 --> 00:23:22,131
+of a potential informant
+and a blackmailer.
+
+453
+00:23:22,233 --> 00:23:23,966
+- MALE NEWSCASTER: It seems
+at least one Silk Road user
+
+454
+00:23:24,068 --> 00:23:25,601
+threatened to reveal
+the identities
+
+455
+00:23:25,703 --> 00:23:27,703
+of thousands of others.
+
+456
+00:23:27,805 --> 00:23:30,439
+So investigators say
+Ulbricht tried to execute
+
+457
+00:23:30,541 --> 00:23:32,374
+a Murder-For-Hire on that user,
+
+458
+00:23:32,476 --> 00:23:36,979
+offering $150,000 to a would-be
+hit man because--
+
+459
+00:23:45,856 --> 00:23:47,623
+- It threw me for a loop.
+
+460
+00:23:47,725 --> 00:23:49,491
+It was really not
+the Dread Pirate Roberts
+
+461
+00:23:49,593 --> 00:23:51,193
+that I had ever imagined.
+
+462
+00:23:51,295 --> 00:23:53,295
+This connection between
+Ross Ulbricht,
+
+463
+00:23:53,397 --> 00:23:54,930
+who plenty of evidence suggests
+
+464
+00:23:55,032 --> 00:23:56,799
+that he was involved
+in the Silk Road.
+
+465
+00:23:56,901 --> 00:23:58,767
+They, after all,
+seized his laptop
+
+466
+00:23:58,869 --> 00:24:00,636
+while he was logged
+in to the Silk Road.
+
+467
+00:24:00,738 --> 00:24:02,638
+He was caught red-handed.
+
+468
+00:24:02,740 --> 00:24:04,706
+But these two personalities,
+these two personas,
+
+469
+00:24:04,809 --> 00:24:07,910
+do seem to be almost
+schizophrenic.
+
+470
+00:24:08,012 --> 00:24:11,013
+It's so difficult to imagine
+that they are the same person.
+
+471
+00:24:11,115 --> 00:24:14,450
+- And so the FBI's whole case
+is based on the idea
+
+472
+00:24:14,552 --> 00:24:18,020
+if they can show that Dread
+Pirate Roberts is Ross Ulbricht?
+
+473
+00:24:18,122 --> 00:24:20,422
+- Right. That's...that's
+the most important part, right?
+
+474
+00:24:20,524 --> 00:24:21,990
+Because he was trying to hide
+
+475
+00:24:22,092 --> 00:24:23,859
+his identity
+on the site as well.
+
+476
+00:24:23,961 --> 00:24:25,427
+So the first thing
+they're gonna have to do
+
+477
+00:24:25,529 --> 00:24:29,865
+is definitively link him as
+the person who runs the site.
+
+478
+00:24:34,205 --> 00:24:36,972
+- Oh, man, it was like it
+was yesterday, actually.
+
+479
+00:24:37,074 --> 00:24:42,077
+I was on my computer and,
+um, I was on Facebook.
+
+480
+00:24:42,179 --> 00:24:46,715
+And there's this guy that I know
+and he's very into like Bitcoin
+
+481
+00:24:46,817 --> 00:24:49,084
+and cryptocurrencies
+and stuff like that.
+
+482
+00:24:49,186 --> 00:24:53,889
+He posted this article and it
+says, "Ross Ulbricht Arrested."
+
+483
+00:24:53,991 --> 00:24:56,859
+And I pull up Lyn's, uh,
+g-chat and I'm like,
+
+484
+00:24:56,961 --> 00:24:59,428
+"What is going on?
+Like why is--"
+
+485
+00:24:59,530 --> 00:25:01,063
+And I'm looking at Ross' page--
+
+486
+00:25:01,165 --> 00:25:03,232
+picture, you know,
+about being arrested.
+
+487
+00:25:03,334 --> 00:25:04,800
+What is this?
+
+488
+00:25:04,902 --> 00:25:06,568
+She says, "We don't even know.
+
+489
+00:25:06,670 --> 00:25:08,270
+We're leaving Costa Rica
+right now."
+
+490
+00:25:08,372 --> 00:25:11,473
+I mean, they were on their way,
+but it blew my mind.
+
+491
+00:25:11,575 --> 00:25:13,475
+I mean totally blew my mind.
+
+492
+00:25:17,648 --> 00:25:19,815
+- REEVES NARRATING:
+Ross William Ulbricht grew up
+
+493
+00:25:19,917 --> 00:25:23,619
+in a suburb of Austin,
+the only son of Kirk and Lyn
+
+494
+00:25:23,721 --> 00:25:25,921
+with an older sister
+named Callie.
+
+495
+00:25:26,023 --> 00:25:29,057
+It's a loving, tight-knit,
+middle-class family.
+
+496
+00:25:29,159 --> 00:25:31,927
+The Ulbrichts earn their income
+from properties they built
+
+497
+00:25:32,029 --> 00:25:35,130
+and rent on
+the Costa Rican coast.
+
+498
+00:25:35,232 --> 00:25:39,134
+Ross was an avid outdoorsman,
+an Eagle Scout like his father,
+
+499
+00:25:39,236 --> 00:25:42,504
+and displayed
+an early aptitude for math.
+
+500
+00:25:42,606 --> 00:25:43,906
+Ross earned a full scholarship
+
+501
+00:25:44,008 --> 00:25:48,076
+to the University of Texas
+at Dallas studying Physics.
+
+502
+00:25:48,178 --> 00:25:52,514
+He graduated in 2006 and then
+won another full scholarship
+
+503
+00:25:52,616 --> 00:25:54,116
+to Penn State
+to pursue a Masters
+
+504
+00:25:54,218 --> 00:25:57,119
+in Material Science
+and Engineering.
+
+505
+00:25:57,221 --> 00:26:00,022
+It was at Penn State that
+Ross began a deep interest
+
+506
+00:26:00,124 --> 00:26:03,926
+in Libertarianism, particularly
+the work of Ludwig von Mises
+
+507
+00:26:04,028 --> 00:26:06,161
+and the Austrian School
+of Economics.
+
+508
+00:26:06,263 --> 00:26:09,364
+Yet by 2009,
+having completed his Masters,
+
+509
+00:26:09,466 --> 00:26:12,200
+Ross seemed to be having
+a change of life plan
+
+510
+00:26:12,303 --> 00:26:14,603
+telling his mother
+he no longer had an interest
+
+511
+00:26:14,705 --> 00:26:16,838
+in pursuing a career in science
+
+512
+00:26:16,941 --> 00:26:19,875
+and instead wanted to
+become an entrepreneur.
+
+513
+00:26:19,977 --> 00:26:21,944
+- REEVES NARRATING:
+Ross moved back to Austin
+
+514
+00:26:22,046 --> 00:26:24,513
+and opened his own used book
+company, Good Wagon,
+
+515
+00:26:24,615 --> 00:26:27,215
+donating a portion of
+the proceeds to an inner city
+
+516
+00:26:27,318 --> 00:26:31,119
+youth program and to
+a prison literacy project.
+
+517
+00:26:31,221 --> 00:26:33,855
+- I remember him saying,
+when we had coffee,
+
+518
+00:26:33,958 --> 00:26:36,325
+the last time we saw each other,
+I remember him saying
+
+519
+00:26:36,427 --> 00:26:40,262
+that he wished he had joined
+a fraternity in college.
+
+520
+00:26:40,364 --> 00:26:42,297
+And I remember saying,
+"Well, that's surprising."
+
+521
+00:26:42,399 --> 00:26:45,067
+You know, I didn't really
+understand that perspective,
+
+522
+00:26:45,169 --> 00:26:49,571
+um, and I just remember him
+thinking, well he focused a lot
+
+523
+00:26:49,673 --> 00:26:55,010
+on his studies in school and
+maybe didn't create the social
+
+524
+00:26:55,112 --> 00:26:59,481
+network that he was looking
+for, um, in...in school.
+
+525
+00:26:59,583 --> 00:27:03,719
+But as far as where we saw each
+other going or where we saw
+
+526
+00:27:03,821 --> 00:27:09,992
+ourselves going, um, I think
+we both had a strong desire
+
+527
+00:27:10,094 --> 00:27:12,961
+to be in control
+of our destiny.
+
+528
+00:27:13,063 --> 00:27:15,097
+You know, again like when
+he started the book company,
+
+529
+00:27:15,199 --> 00:27:16,932
+uh, totally natural.
+
+530
+00:27:17,034 --> 00:27:18,967
+Not even something that
+I would have questioned,
+
+531
+00:27:19,069 --> 00:27:20,802
+where there are
+a lot of people
+
+532
+00:27:20,904 --> 00:27:22,738
+that would never start
+their own business.
+
+533
+00:27:22,840 --> 00:27:24,473
+But for Ross, sure,
+you know, why not?
+
+534
+00:27:24,575 --> 00:27:26,208
+- REEVES NARRATING:
+But the business floundered
+
+535
+00:27:26,310 --> 00:27:28,477
+and Ross eventually
+shut it down.
+
+536
+00:27:28,579 --> 00:27:31,680
+And if a post on his LinkedIn
+page was any indication,
+
+537
+00:27:31,782 --> 00:27:33,849
+Ross had experienced
+a kind of epiphany
+
+538
+00:27:33,951 --> 00:27:36,451
+on the next way forward.
+
+539
+00:27:36,553 --> 00:27:39,354
+Ulbricht wrote,
+"Now my goals have shifted.
+
+540
+00:27:39,456 --> 00:27:42,290
+"I want to use economic theory
+as a means to abolish
+
+541
+00:27:42,393 --> 00:27:45,460
+"the use of coercion and
+aggression amongst mankind.
+
+542
+00:27:45,562 --> 00:27:49,398
+"To that end, I am creating
+an economic simulation to give
+
+543
+00:27:49,500 --> 00:27:51,767
+"people a first-hand experience
+of what it would be like
+
+544
+00:27:51,869 --> 00:27:55,637
+to live in a world without
+the systemic use of force."
+
+545
+00:27:55,739 --> 00:27:57,773
+From this moment,
+in late 2010,
+
+546
+00:27:57,875 --> 00:28:00,175
+Ross became something
+of a free spirit,
+
+547
+00:28:00,277 --> 00:28:02,577
+eventually leaving
+his parents' home in Austin
+
+548
+00:28:02,680 --> 00:28:05,280
+to live with his sister Callie
+in Sydney, Australia
+
+549
+00:28:05,382 --> 00:28:07,716
+and then returning
+briefly to Austin.
+
+550
+00:28:07,818 --> 00:28:10,485
+Throughout this period,
+as far as his family knew,
+
+551
+00:28:10,587 --> 00:28:12,254
+Ross' means of employment
+
+552
+00:28:12,356 --> 00:28:15,724
+was working on freelance
+projects in computer finance.
+
+553
+00:28:15,826 --> 00:28:18,860
+- I am Rene Pinnell, age 29.
+
+554
+00:28:18,962 --> 00:28:21,396
+Today is December 6, 2012
+
+555
+00:28:21,498 --> 00:28:25,400
+and we are in the Jewish
+Contemporary Art Museum,
+
+556
+00:28:25,502 --> 00:28:32,107
+and relationship to partner
+is best friend.
+
+557
+00:28:32,209 --> 00:28:35,177
+So, Ross, how did you come
+to live in San Francisco?
+
+558
+00:28:35,279 --> 00:28:39,214
+- Uh, you twisted
+my arm until I said,
+
+559
+00:28:39,316 --> 00:28:42,250
+"Ah, fine I'll come."
+[laughing]
+
+560
+00:28:42,352 --> 00:28:45,087
+I get a phone call from Rene,
+"Ross, call me up.
+
+561
+00:28:45,189 --> 00:28:47,422
+I've got an opportunity
+for you."
+
+562
+00:28:47,524 --> 00:28:49,157
+I'm like, "Okay."
+
+563
+00:28:49,259 --> 00:28:51,159
+He's like, "Yeah, I'm doing
+a startup here in San Francisco.
+
+564
+00:28:51,261 --> 00:28:53,695
+Um, I want you to
+be a part of it."
+
+565
+00:28:53,797 --> 00:28:56,231
+The more I thought about it,
+and the more he, um,
+
+566
+00:28:56,333 --> 00:29:01,069
+laid out the pros
+and cons, uh...uh...
+
+567
+00:29:01,171 --> 00:29:02,871
+the more it all just
+seemed like cosmic
+
+568
+00:29:02,973 --> 00:29:07,375
+and the right thing to do.
+So, um, yeah.
+
+569
+00:29:07,478 --> 00:29:09,211
+I bought my ticket
+and two weeks later
+
+570
+00:29:09,313 --> 00:29:11,880
+I showed up at his doorstep.
+
+571
+00:29:11,982 --> 00:29:13,548
+- REEVES NARRATING: As Ross
+Ulbricht was making his way
+
+572
+00:29:13,650 --> 00:29:17,452
+from Australia to Austin,
+and eventually to San Francisco,
+
+573
+00:29:17,554 --> 00:29:20,522
+the Silk Road was online
+and growing steadily.
+
+574
+00:29:20,624 --> 00:29:21,957
+So naturally it sparked
+the attention
+
+575
+00:29:22,059 --> 00:29:23,792
+of federal law enforcement
+
+576
+00:29:23,894 --> 00:29:25,560
+and specifically
+the wing of the DHS
+
+577
+00:29:25,662 --> 00:29:28,430
+called Homeland Security
+Investigations,
+
+578
+00:29:28,532 --> 00:29:32,367
+housed in the old Customs House
+in Baltimore, Maryland.
+
+579
+00:29:32,469 --> 00:29:35,470
+- You have postal
+inspectors in Seattle
+
+580
+00:29:35,572 --> 00:29:37,139
+and Customs and Border
+Protection, uh,
+
+581
+00:29:37,241 --> 00:29:40,208
+intercepting mail shipments
+coming from overseas
+
+582
+00:29:40,310 --> 00:29:43,411
+full of drugs, full of,
+uh, full of currency.
+
+583
+00:29:43,514 --> 00:29:45,881
+And one thing
+that happens is
+
+584
+00:29:45,983 --> 00:29:48,216
+they all lead
+back to the Silk Road.
+
+585
+00:29:48,318 --> 00:29:52,187
+And you have a number
+of independent investigations
+
+586
+00:29:52,289 --> 00:29:55,657
+sort of cropping up around
+the same timeframe
+
+587
+00:29:55,759 --> 00:29:57,159
+following different leads,
+
+588
+00:29:57,261 --> 00:29:59,561
+but all leading back
+to the same place.
+
+589
+00:29:59,663 --> 00:30:01,463
+- REEVES NARRATING:
+At the same time,
+
+590
+00:30:01,565 --> 00:30:03,532
+the New York Cyber-Crime
+Division of the FBI
+
+591
+00:30:03,634 --> 00:30:07,736
+began their own investigation,
+headed by Agent Chris Tarbell.
+
+592
+00:30:07,838 --> 00:30:10,505
+- There were people
+essentially online 24/7
+
+593
+00:30:10,607 --> 00:30:13,175
+as part of the team that...
+that was monitoring,
+
+594
+00:30:13,277 --> 00:30:16,244
+gathering, even just the little
+bits of evidence.
+
+595
+00:30:16,346 --> 00:30:18,313
+- REEVES NARRATING:
+Informants were activated.
+
+596
+00:30:18,415 --> 00:30:20,081
+The site was crawling
+with law enforcement
+
+597
+00:30:20,184 --> 00:30:22,184
+posing as vendors and buyers
+
+598
+00:30:22,286 --> 00:30:25,520
+from the very beginning
+of Silk Road's existence.
+
+599
+00:30:25,622 --> 00:30:30,392
+In early 2012, HSI partnered
+with Tarbell's FBI investigators
+
+600
+00:30:30,494 --> 00:30:33,728
+as well as the DEA to mount
+an undercover operation
+
+601
+00:30:33,831 --> 00:30:36,097
+called "Marco Polo"
+with the intention of
+
+602
+00:30:36,200 --> 00:30:39,401
+penetrating the inner
+sanctum of the Silk Road.
+
+603
+00:30:39,503 --> 00:30:43,405
+- [digitally-altered voice]
+
+604
+00:31:16,006 --> 00:31:17,873
+- REEVES NARRATING:
+The operation gained traction
+
+605
+00:31:17,975 --> 00:31:21,376
+when an undercover agent using
+the vendor name of "nob"
+
+606
+00:31:21,478 --> 00:31:24,312
+was allegedly able to establish
+direct communication
+
+607
+00:31:24,414 --> 00:31:26,114
+with the Dread Pirate Roberts,
+
+608
+00:31:26,216 --> 00:31:28,583
+which would lead to
+a shocking turn of events.
+
+609
+00:31:28,685 --> 00:31:31,820
+Nob complained to DPR
+about the small-fry nature
+
+610
+00:31:31,922 --> 00:31:33,955
+of most deals on the Silk Road.
+
+611
+00:31:34,057 --> 00:31:35,523
+"It really isn't worth it
+
+612
+00:31:35,626 --> 00:31:38,293
+to do below 10 kilos,"
+the agent wrote.
+
+613
+00:31:38,395 --> 00:31:40,962
+DPR offered to help
+find a buyer for nob
+
+614
+00:31:41,064 --> 00:31:43,465
+and allegedly turned to one
+of his most trusted partners
+
+615
+00:31:43,567 --> 00:31:46,735
+known only as "chronicpain"
+to put the deal together.
+
+616
+00:31:46,837 --> 00:31:49,371
+Chronicpain had been
+one of the core administrators
+
+617
+00:31:49,473 --> 00:31:51,039
+of the Silk Road
+from the beginning,
+
+618
+00:31:51,141 --> 00:31:53,475
+a frequent contributor
+to the forums who shared
+
+619
+00:31:53,577 --> 00:31:57,245
+the Silk Road vision for
+reducing harm in the drug trade.
+
+620
+00:31:57,347 --> 00:31:59,714
+But these halcyon days
+were about to end.
+
+621
+00:31:59,816 --> 00:32:02,884
+In order to facilitate
+this drug deal,
+
+622
+00:32:02,986 --> 00:32:05,553
+chronicpain gave the informant
+his home address.
+
+623
+00:32:05,656 --> 00:32:08,390
+Federal agents immediately
+apprehended chronicpain
+
+624
+00:32:08,492 --> 00:32:11,760
+at his Salt Lake City home
+and were surprised to discover
+
+625
+00:32:11,862 --> 00:32:15,964
+that this 47-year-old family man
+named Curtis Clark Green
+
+626
+00:32:16,066 --> 00:32:18,066
+was a dark net criminal.
+
+627
+00:32:18,168 --> 00:32:19,701
+- At some point they're going
+to catch one of those people.
+
+628
+00:32:19,803 --> 00:32:21,636
+And what do you do
+in a typical drug case?
+
+629
+00:32:21,738 --> 00:32:24,272
+You roll that person over
+as a cooperating witness.
+
+630
+00:32:24,374 --> 00:32:27,475
+And in this case, one of them
+they got really lucky
+
+631
+00:32:27,577 --> 00:32:29,678
+and he was an administrator
+on the system.
+
+632
+00:32:29,780 --> 00:32:31,680
+- REEVES NARRATING:
+Green had access to
+
+633
+00:32:31,782 --> 00:32:34,249
+other Silk Road users' accounts
+and financial records,
+
+634
+00:32:34,351 --> 00:32:36,251
+including Dread Pirate Roberts.
+
+635
+00:32:36,353 --> 00:32:38,320
+"I have to assume he will sing,"
+
+636
+00:32:38,422 --> 00:32:41,022
+DPR wrote to nob,
+the undercover agent.
+
+637
+00:32:41,124 --> 00:32:42,357
+"I'd like him beat up."
+
+638
+00:32:42,459 --> 00:32:44,659
+Then, the next day,
+he allegedly wrote,
+
+639
+00:32:44,761 --> 00:32:48,363
+"Can you change the order to
+execute rather than torture?"
+
+640
+00:32:48,465 --> 00:32:50,365
+A murder was staged.
+
+641
+00:32:50,467 --> 00:32:53,501
+And a photograph of Green's
+bloody body was sent to DPR,
+
+642
+00:32:53,603 --> 00:32:56,204
+who paid for the hit
+in Bitcoin.
+
+643
+00:32:56,306 --> 00:32:58,907
+There would be five more alleged
+Murders-For-Hire,
+
+644
+00:32:59,009 --> 00:33:02,544
+including ordered hits against
+a blackmailer, a scammer
+
+645
+00:33:02,646 --> 00:33:05,580
+and an apparent contract
+with the Hells Angels.
+
+646
+00:33:05,682 --> 00:33:07,582
+The names of two
+of these victims
+
+647
+00:33:07,684 --> 00:33:09,417
+were found to be fictitious.
+
+648
+00:33:09,519 --> 00:33:10,585
+And authorities have no evidence
+
+649
+00:33:10,687 --> 00:33:13,188
+of any murders
+being carried out.
+
+650
+00:33:13,290 --> 00:33:15,357
+The alleged attempted
+murder of Curtis Green
+
+651
+00:33:15,459 --> 00:33:17,959
+allowed the authorities
+to obtain an indictment
+
+652
+00:33:18,061 --> 00:33:19,427
+against Dread Pirate Roberts,
+
+653
+00:33:19,529 --> 00:33:21,529
+charging him with drug offenses,
+
+654
+00:33:21,631 --> 00:33:24,532
+attempted witness murder
+and Murder-For-Hire.
+
+655
+00:33:24,634 --> 00:33:26,568
+Of course, they still
+had no idea
+
+656
+00:33:26,670 --> 00:33:29,437
+who the Dread Pirate Roberts
+actually was.
+
+657
+00:33:29,539 --> 00:33:32,474
+So the embedded agents continued
+to communicate with DPR,
+
+658
+00:33:32,576 --> 00:33:34,876
+and DPR continued to respond.
+
+659
+00:33:36,380 --> 00:33:40,615
+In June of 2013,
+Ross moved into an apartment
+
+660
+00:33:40,717 --> 00:33:42,817
+that he found on Craigslist.
+
+661
+00:33:42,919 --> 00:33:45,353
+Allegedly, he did not give
+his roommates his real name
+
+662
+00:33:45,455 --> 00:33:47,655
+and was known as Joshua Terrey.
+
+663
+00:33:47,758 --> 00:33:50,892
+At the same time,
+IRS agent Gary Alford
+
+664
+00:33:50,994 --> 00:33:53,294
+was investigating the Silk Road
+
+665
+00:33:53,397 --> 00:33:55,096
+and through a simple Google
+search was able to locate
+
+666
+00:33:55,198 --> 00:33:58,633
+an early email on the open
+internet discussing the launch
+
+667
+00:33:58,735 --> 00:34:00,568
+of the Silk Road marketplace
+
+668
+00:34:00,670 --> 00:34:05,607
+and connect that email to an
+account owned by Ross Ulbricht.
+
+669
+00:34:05,709 --> 00:34:07,542
+One month later,
+postal inspectors
+
+670
+00:34:07,644 --> 00:34:10,879
+at the Canadian border
+seized a package of fake IDs
+
+671
+00:34:10,981 --> 00:34:16,017
+with Ross' image that were
+en route to his home address.
+
+672
+00:34:16,119 --> 00:34:20,889
+Ross was visited at his
+apartment by several DHS agents.
+
+673
+00:34:20,991 --> 00:34:23,992
+The agents handed Ross a false
+California driver's license
+
+674
+00:34:24,094 --> 00:34:26,628
+that bore his picture,
+but a different name.
+
+675
+00:34:26,730 --> 00:34:29,998
+Ulbricht denied ownership
+or knowledge of the fake IDs,
+
+676
+00:34:30,100 --> 00:34:33,601
+and the agents simply left.
+
+677
+00:34:33,703 --> 00:34:37,038
+- If you suspect somebody
+may be involved in a...
+
+678
+00:34:37,140 --> 00:34:39,374
+in a large-scale
+criminal enterprise,
+
+679
+00:34:39,476 --> 00:34:41,643
+going and knocking on a door
+with some, uh, you know,
+
+680
+00:34:41,745 --> 00:34:45,180
+some evidence of fake IDs
+is important, uh,
+
+681
+00:34:45,282 --> 00:34:48,049
+because you can see
+the guy face-to-face.
+
+682
+00:34:48,151 --> 00:34:51,319
+Uh, you may get some useful
+information out of an interview.
+
+683
+00:34:51,421 --> 00:34:54,022
+You may or may not want to take
+him into custody on the spot.
+
+684
+00:34:54,124 --> 00:34:57,559
+Let's sit back and let's, uh,
+let's really go after this
+
+685
+00:34:57,661 --> 00:35:01,529
+in a...in a...you know, much
+more global way, if you will,
+
+686
+00:35:01,631 --> 00:35:04,566
+uh, because there's a lot more
+here than just one count of,
+
+687
+00:35:04,668 --> 00:35:07,001
+uh, you know, fake IDs.
+
+688
+00:35:07,104 --> 00:35:08,903
+- REEVES NARRATING: The next
+big break in the case
+
+689
+00:35:09,005 --> 00:35:11,039
+would be achieved
+by FBI agent Tarbell
+
+690
+00:35:11,141 --> 00:35:14,042
+and his cyber-crime team,
+who had somehow located
+
+691
+00:35:14,144 --> 00:35:17,612
+the Silk Road servers
+in Germany and Iceland.
+
+692
+00:35:17,714 --> 00:35:19,214
+How these hidden
+servers were found
+
+693
+00:35:19,316 --> 00:35:20,782
+has been a matter
+of controversy,
+
+694
+00:35:20,884 --> 00:35:24,586
+but the FBI had their own copy
+of the Silk Road server,
+
+695
+00:35:24,688 --> 00:35:27,789
+and now they hoped to finally
+unmask the Dread Pirate Roberts.
+
+696
+00:35:41,872 --> 00:35:43,705
+- REEVES NARRATING:
+Over the course of a year,
+
+697
+00:35:43,807 --> 00:35:47,575
+a Chicago-based agent from the
+DHS named Jared Der-Yeghiayan
+
+698
+00:35:47,677 --> 00:35:49,711
+had been embedded
+in the Silk Road,
+
+699
+00:35:49,813 --> 00:35:53,681
+now posing as a high-ranking
+moderator named "cirrus."
+
+700
+00:35:53,783 --> 00:35:55,950
+With both the evidence
+connecting Ross to the launch of
+
+701
+00:35:56,052 --> 00:35:58,887
+the Silk Road and the incident
+with the fake IDs,
+
+702
+00:35:58,989 --> 00:36:02,924
+Ross became one of
+the primary suspects.
+
+703
+00:36:03,026 --> 00:36:04,993
+On October 1st in
+a coordinated effort
+
+704
+00:36:05,095 --> 00:36:09,664
+between Der-Yeghiayan from
+the DHS and Tarbell's FBI squad,
+
+705
+00:36:09,766 --> 00:36:11,799
+a sting operation was launched.
+
+706
+00:36:11,902 --> 00:36:14,202
+According to
+Der-Yeghiayan's testimony,
+
+707
+00:36:14,304 --> 00:36:16,804
+he staked out Ross'
+new residence.
+
+708
+00:36:16,907 --> 00:36:18,706
+And using his
+pseudonym of cirrus,
+
+709
+00:36:18,808 --> 00:36:20,942
+Der-Yeghiayan initiated
+a conversation
+
+710
+00:36:21,044 --> 00:36:23,111
+on the Silk Road with DPR.
+
+711
+00:36:23,213 --> 00:36:26,414
+Moments later, Ross went
+to the Glen Park Library,
+
+712
+00:36:26,516 --> 00:36:28,883
+apparently to use their Wi-Fi.
+
+713
+00:36:28,985 --> 00:36:31,119
+And when Der-Yeghiayan
+saw that DPR was logged back
+
+714
+00:36:31,221 --> 00:36:33,121
+into the Silk Road,
+
+715
+00:36:33,223 --> 00:36:36,191
+he gave the order for Tarbell
+and his squad to move in.
+
+716
+00:36:36,293 --> 00:36:39,127
+- It's an excitement that you
+couldn't even buy off Silk Road.
+
+717
+00:36:39,229 --> 00:36:41,996
+Uh, all the drugs you could buy
+on the site, you...you...you...
+
+718
+00:36:42,098 --> 00:36:44,966
+It's not the same excitement
+as catching the guy.
+
+719
+00:36:45,068 --> 00:36:45,934
+It's an adrenaline rush.
+
+720
+00:36:46,036 --> 00:36:47,936
+- REEVES NARRATING:
+Ross was apprehended
+
+721
+00:36:48,038 --> 00:36:49,938
+before he could
+encrypt his laptop.
+
+722
+00:36:50,040 --> 00:36:52,473
+He was allegedly logged into a
+Silk Road administration panel
+
+723
+00:36:52,576 --> 00:36:55,677
+for customers
+needing DPR's attention.
+
+724
+00:36:55,779 --> 00:36:57,946
+- He was a dream for drug users,
+
+725
+00:36:58,048 --> 00:37:01,749
+because he was very technically
+adept and he was able to hide
+
+726
+00:37:01,851 --> 00:37:05,119
+both the website
+that he put together
+
+727
+00:37:05,222 --> 00:37:10,391
+and the actual sales of illegal
+drugs that the drug sellers
+
+728
+00:37:10,493 --> 00:37:13,361
+would, uh, make on his website.
+
+729
+00:37:13,463 --> 00:37:15,463
+- REEVES NARRATING: The Silk
+Road was seized and shut down,
+
+730
+00:37:15,565 --> 00:37:17,265
+and charges were
+announced against
+
+731
+00:37:17,367 --> 00:37:20,568
+a number of core partners
+and vendors from the site.
+
+732
+00:37:20,670 --> 00:37:23,338
+Ross was held for over a month
+in a jail in Oakland,
+
+733
+00:37:23,440 --> 00:37:26,174
+awaiting extradition
+to New York.
+
+734
+00:37:26,276 --> 00:37:27,875
+Ross's family was able to raise
+
+735
+00:37:27,978 --> 00:37:30,211
+over a million dollars
+for his bail.
+
+736
+00:37:30,313 --> 00:37:32,680
+But the prosecution argued
+that due to the alleged
+
+737
+00:37:32,782 --> 00:37:36,517
+Murders-For-Hire, Ross was
+too dangerous to release
+
+738
+00:37:36,620 --> 00:37:38,820
+and so his bail was denied.
+
+739
+00:37:38,922 --> 00:37:40,755
+- LYN ULBRICHT: I thought
+it was the wrong decision.
+
+740
+00:37:40,857 --> 00:37:43,157
+He wouldn't have been a flight
+risk and he's never been
+
+741
+00:37:43,260 --> 00:37:45,460
+and is not a danger to anyone.
+
+742
+00:38:04,080 --> 00:38:06,214
+- ALEX WINTER:
+There was more than one person
+
+743
+00:38:06,316 --> 00:38:08,182
+using the DPR account?
+
+744
+00:38:33,543 --> 00:38:35,443
+- REEVES NARRATING:
+The data seized from
+
+745
+00:38:35,545 --> 00:38:38,146
+the Silk Road servers included
+all internal private messages,
+
+746
+00:38:38,248 --> 00:38:41,916
+which revealed that many people
+collectively ran the site.
+
+747
+00:38:42,018 --> 00:38:44,719
+One vendor with the user
+name "Variety Jones"
+
+748
+00:38:44,821 --> 00:38:47,455
+was active from the beginning
+of the Silk Road.
+
+749
+00:38:47,557 --> 00:38:50,725
+Jones gave many of the orders
+for running the Silk Road,
+
+750
+00:38:50,827 --> 00:38:53,528
+even instructing the systems
+administrator to create
+
+751
+00:38:53,630 --> 00:38:56,531
+the Dread Pirate Roberts
+persona.
+
+752
+00:38:56,633 --> 00:38:58,533
+But Ross Ulbricht remained
+
+753
+00:38:58,635 --> 00:39:01,836
+the primary focus
+of the investigation.
+
+754
+00:39:01,938 --> 00:39:04,906
+Ross has been incarcerated
+for over a year
+
+755
+00:39:05,008 --> 00:39:06,274
+in the Metropolitan
+Detention Center
+
+756
+00:39:06,376 --> 00:39:08,276
+in Brooklyn awaiting trial.
+
+757
+00:39:08,378 --> 00:39:11,946
+Six weeks of that time was
+in solitary confinement.
+
+758
+00:39:12,048 --> 00:39:16,150
+Ross plead not guilty and denies
+being the Dread Pirate Roberts.
+
+759
+00:39:16,252 --> 00:39:18,052
+His trial was set for
+
+760
+00:39:18,154 --> 00:39:21,055
+November 10, 2014
+in New York City.
+
+761
+00:39:21,157 --> 00:39:25,126
+If convicted, Ross faces
+a minimum sentence of 30 years
+
+762
+00:39:25,228 --> 00:39:30,398
+with a maximum sentence
+of life in prison.
+
+763
+00:39:30,500 --> 00:39:33,434
+- WOMAN: Are you taking a video?
+- PINNELL: Mmm-hmm.
+
+764
+00:39:33,536 --> 00:39:34,902
+- ULBRICHT: He's a hairy fucker.
+
+765
+00:39:35,004 --> 00:39:37,739
+- PINNELL: These big guys
+are generally not too, uh...
+
+766
+00:39:37,841 --> 00:39:39,741
+I would let him
+off somewhere.
+
+767
+00:39:39,843 --> 00:39:41,743
+- WOMAN: [gasps]
+- PINNELL: Where is he?
+
+768
+00:39:41,845 --> 00:39:44,479
+- You know it's hard.
+It's...it's hard on a family.
+
+769
+00:39:44,581 --> 00:39:47,582
+It really is, especially when
+you love that person so much
+
+770
+00:39:47,684 --> 00:39:49,951
+and you believe in them so much
+
+771
+00:39:50,053 --> 00:39:52,820
+and you have such a daunting
+Goliath of an opponent.
+
+772
+00:39:52,922 --> 00:39:55,690
+It's, uh, challenging.
+
+773
+00:39:55,792 --> 00:39:57,859
+It's kind of like a death,
+in a way, when you go like,
+
+774
+00:39:57,961 --> 00:39:59,127
+"No, that can't be true,"
+
+775
+00:39:59,229 --> 00:40:00,895
+and then you're like,
+"Oh, yeah, it's true."
+
+776
+00:40:00,997 --> 00:40:03,631
+And you go through
+that kind of shock.
+
+777
+00:40:03,733 --> 00:40:05,767
+His dad, my husband,
+um, of course,
+
+778
+00:40:05,869 --> 00:40:07,268
+he's trying to keep
+our business going
+
+779
+00:40:07,370 --> 00:40:08,803
+so we have a livelihood.
+
+780
+00:40:08,905 --> 00:40:11,539
+And, um, his sister
+is in, um, Australia
+
+781
+00:40:11,641 --> 00:40:13,641
+and she's been helping,
+too, from there.
+
+782
+00:40:13,743 --> 00:40:15,343
+- I'm Ross' sister
+and I can tell you
+
+783
+00:40:15,445 --> 00:40:18,813
+he has been a man of his word
+and honor all his life.
+
+784
+00:40:18,915 --> 00:40:21,482
+I was shocked to hear
+the news of his arrest,
+
+785
+00:40:21,584 --> 00:40:23,151
+but felt even more dismayed
+
+786
+00:40:23,253 --> 00:40:25,953
+at what the media was writing
+about him, not even knowing him.
+
+787
+00:40:29,192 --> 00:40:31,092
+- LYN ULBRICHT: You know,
+I read things by people
+
+788
+00:40:31,194 --> 00:40:34,829
+who have not a clue
+who Ross really is.
+
+789
+00:40:34,931 --> 00:40:38,466
+He's been tried
+and convicted in the media.
+
+790
+00:40:38,568 --> 00:40:41,135
+Nothing has been proven at all.
+
+791
+00:40:41,237 --> 00:40:43,304
+I don't know what's happened to
+the presumption of innocence
+
+792
+00:40:43,406 --> 00:40:45,973
+in this country, but it is
+a constitutional right here
+
+793
+00:40:46,075 --> 00:40:48,376
+that we are innocent
+until proven guilty.
+
+794
+00:40:48,478 --> 00:40:52,346
+Ross sent me this picture of
+himself about a week ago.
+
+795
+00:40:52,449 --> 00:40:55,082
+It was taken a couple of
+weeks ago in prison.
+
+796
+00:40:55,185 --> 00:40:56,951
+I guess sometimes they go around
+
+797
+00:40:57,053 --> 00:40:58,986
+and take pictures
+for the families.
+
+798
+00:40:59,088 --> 00:41:02,056
+He is doing well, uh, as well
+as can be expected,
+
+799
+00:41:02,158 --> 00:41:05,326
+of course,
+under the circumstances.
+
+800
+00:41:05,428 --> 00:41:08,963
+And finally, after
+five months of delays,
+
+801
+00:41:09,065 --> 00:41:11,232
+he has had access
+to the discovery,
+
+802
+00:41:11,334 --> 00:41:13,901
+the evidence that
+the prosecution has.
+
+803
+00:41:14,003 --> 00:41:17,004
+And so he's been working very
+hard going through that.
+
+804
+00:41:17,106 --> 00:41:19,240
+We are asking the,
+uh, prosecution,
+
+805
+00:41:19,342 --> 00:41:23,277
+"How did you find the server,"
+and they're not saying.
+
+806
+00:41:23,379 --> 00:41:26,180
+Um, we have to know how they
+found the server in order to see
+
+807
+00:41:26,282 --> 00:41:29,717
+if Ross' Fourth Amendment
+rights have been violated.
+
+808
+00:41:29,819 --> 00:41:32,420
+And how would anyone know
+if the evidence had been
+
+809
+00:41:32,522 --> 00:41:33,788
+tampered with or anything else
+
+810
+00:41:33,890 --> 00:41:37,859
+if it's not revealed
+how they found the server?
+
+811
+00:41:37,961 --> 00:41:41,195
+There were 14 searches
+and seizures in this case,
+
+812
+00:41:41,297 --> 00:41:44,966
+which is a...
+a fishing expedition
+
+813
+00:41:45,068 --> 00:41:48,135
+into a person's total property.
+
+814
+00:41:48,238 --> 00:41:50,438
+Unlimited rummaging through
+all of their things
+
+815
+00:41:50,540 --> 00:41:52,273
+to see what they can find.
+
+816
+00:41:52,375 --> 00:41:55,076
+- When the criminal complaints
+first appeared in...in October,
+
+817
+00:41:55,178 --> 00:41:58,613
+I think the supporters
+of the Dread Pirate Roberts
+
+818
+00:41:58,715 --> 00:42:00,781
+and the Silk Road
+just scattered.
+
+819
+00:42:00,884 --> 00:42:02,350
+Because suddenly this thing
+that had seemed like
+
+820
+00:42:02,452 --> 00:42:06,020
+an idealistic community
+built around non-violence
+
+821
+00:42:06,122 --> 00:42:08,956
+and, you know,
+Libertarian free commerce,
+
+822
+00:42:09,058 --> 00:42:12,326
+suddenly seemed instead like
+this bloody criminal conspiracy.
+
+823
+00:42:12,428 --> 00:42:18,199
+And a guy who probably otherwise
+would have been a kind of, uh,
+
+824
+00:42:18,301 --> 00:42:21,335
+political cause célèbre,
+who...who would have had
+
+825
+00:42:21,437 --> 00:42:24,105
+all of these supporters
+calling for his freedom,
+
+826
+00:42:24,207 --> 00:42:28,609
+instead was treated as a...
+was an immediate pariah.
+
+827
+00:42:28,711 --> 00:42:30,211
+He was seen as a criminal.
+
+828
+00:42:30,313 --> 00:42:35,516
+- So there's a lot of, um,
+circumstantial, uh, evidence,
+
+829
+00:42:35,618 --> 00:42:36,817
+if you want to call it that.
+
+830
+00:42:36,920 --> 00:42:39,754
+There's a lot of technical bits
+and pieces involved.
+
+831
+00:42:39,856 --> 00:42:42,089
+It got really crazy
+in the middle of that.
+
+832
+00:42:42,191 --> 00:42:44,625
+Sort of one thing is taking down
+this online drug market.
+
+833
+00:42:44,727 --> 00:42:46,494
+Another thing
+is pinning a number of
+
+834
+00:42:46,596 --> 00:42:48,329
+Murders-For-Hires on top of it.
+
+835
+00:42:48,431 --> 00:42:50,331
+It just seems really,
+really far-fetched.
+
+836
+00:42:50,433 --> 00:42:52,500
+- MALE NEWSCASTER:
+The 29-year-old seemingly
+
+837
+00:42:52,602 --> 00:42:55,770
+clean-cut entrepreneur
+was living a secret life
+
+838
+00:42:55,872 --> 00:42:57,638
+as a digital drug lord.
+
+839
+00:42:57,740 --> 00:42:59,874
+- They're claiming that he's
+living in a manner of a...
+
+840
+00:42:59,976 --> 00:43:01,175
+of a head of a cartel.
+
+841
+00:43:01,277 --> 00:43:02,643
+The distinctions
+between Ross Ulbricht
+
+842
+00:43:02,745 --> 00:43:04,211
+and the head of a cartel,
+
+843
+00:43:04,314 --> 00:43:05,980
+you don't have to see
+too many movies to...
+
+844
+00:43:06,082 --> 00:43:08,516
+to recognize what
+the differences are here.
+
+845
+00:43:08,618 --> 00:43:11,185
+- GREENBERG: Then when
+the indictment finally came out,
+
+846
+00:43:11,287 --> 00:43:13,220
+there were suddenly
+no charges around
+
+847
+00:43:13,323 --> 00:43:15,389
+these Murder-For-Hire
+accusations,
+
+848
+00:43:15,491 --> 00:43:17,124
+only the drug trafficking
+
+849
+00:43:17,226 --> 00:43:19,660
+and money laundering
+and computer hacking.
+
+850
+00:43:19,762 --> 00:43:21,262
+- They had six charges.
+
+851
+00:43:21,364 --> 00:43:24,699
+They used them against him
+to deprive him of bail
+
+852
+00:43:24,801 --> 00:43:27,535
+and yet two and a half
+months later, uh,
+
+853
+00:43:27,637 --> 00:43:29,270
+the prosecutor
+didn't indict him.
+
+854
+00:43:29,372 --> 00:43:33,608
+What they did instead was they
+called it an "uncharged crime."
+
+855
+00:43:33,710 --> 00:43:36,243
+Well, if something's a crime,
+don't you charge someone for it?
+
+856
+00:43:36,346 --> 00:43:39,647
+And if it's not a crime,
+why is it there--
+
+857
+00:43:39,749 --> 00:43:42,383
+because it's
+prejudicial to a jury
+
+858
+00:43:42,485 --> 00:43:45,386
+to have that sitting
+there unproven just...
+
+859
+00:43:45,488 --> 00:43:47,888
+just smearing him.
+
+860
+00:43:47,991 --> 00:43:53,127
+- The portrayal they want
+is of someone who they could
+
+861
+00:43:53,229 --> 00:43:55,563
+present to a jury
+of not having redeeming value.
+
+862
+00:43:55,665 --> 00:43:59,200
+It's a way of poisoning
+the atmosphere so that the jury
+
+863
+00:43:59,302 --> 00:44:03,704
+doesn't focus on the
+allegations, but focuses on this
+
+864
+00:44:03,806 --> 00:44:06,674
+atmospheric that the government
+has created that in some sense
+
+865
+00:44:06,776 --> 00:44:10,111
+is a diversion appealing to
+the emotional aspect of it
+
+866
+00:44:10,213 --> 00:44:11,946
+so that if the proof is weak,
+
+867
+00:44:12,048 --> 00:44:13,614
+the benefit of the doubt
+doesn't go to the defendant,
+
+868
+00:44:13,716 --> 00:44:15,750
+where it belongs, under
+the presumption of innocence,
+
+869
+00:44:15,852 --> 00:44:17,451
+but it goes to
+the government because,
+
+870
+00:44:17,553 --> 00:44:19,186
+hey, there are these awful
+things lurking out there
+
+871
+00:44:19,288 --> 00:44:21,122
+which aren't part of what
+we're supposed to find.
+
+872
+00:44:21,224 --> 00:44:22,990
+The government doesn't
+have to prove them
+
+873
+00:44:23,092 --> 00:44:24,525
+beyond a reasonable doubt,
+
+874
+00:44:24,627 --> 00:44:26,127
+but they've injected them
+in the case in a way
+
+875
+00:44:26,229 --> 00:44:29,930
+that is toxic to
+an impartial evaluation of
+
+876
+00:44:30,033 --> 00:44:32,199
+what the evidence is on
+the charged crimes.
+
+877
+00:44:32,301 --> 00:44:34,035
+So people come in with
+a preconceived notion
+
+878
+00:44:34,137 --> 00:44:36,604
+and that's halfway
+there to...to guilt.
+
+879
+00:44:36,706 --> 00:44:38,272
+- Previously, the Murder-
+For-Hire was in there
+
+880
+00:44:38,374 --> 00:44:41,475
+as a charge and then
+it was dropped.
+
+881
+00:44:41,577 --> 00:44:43,577
+But it's not gone away.
+
+882
+00:44:43,680 --> 00:44:46,080
+It's included as what
+they call an overt act
+
+883
+00:44:46,182 --> 00:44:49,750
+in the conspiracy and...
+to sell drugs.
+
+884
+00:44:49,852 --> 00:44:53,654
+And so they actually made it
+one of the things to support
+
+885
+00:44:53,756 --> 00:44:57,825
+the larger drug conspiracy
+to either get a trial
+
+886
+00:44:57,927 --> 00:44:59,326
+or get him to plead.
+
+887
+00:44:59,429 --> 00:45:00,828
+- It seemed like
+this bait and switch
+
+888
+00:45:00,930 --> 00:45:05,366
+that the government had accused
+him in this almost informal way
+
+889
+00:45:05,468 --> 00:45:09,303
+of murder so that when
+he was charged with these
+
+890
+00:45:09,405 --> 00:45:11,005
+non-violent crimes in the end,
+
+891
+00:45:11,107 --> 00:45:13,541
+he would still be seen
+as a violent criminal.
+
+892
+00:45:13,643 --> 00:45:15,910
+I think that that has
+really been effective in...
+
+893
+00:45:16,012 --> 00:45:20,214
+in coloring the portrait
+of Ross Ulbricht.
+
+894
+00:45:22,351 --> 00:45:24,685
+- REEVES NARRATING:
+Ever since Ross' arrest,
+
+895
+00:45:24,787 --> 00:45:26,053
+he and his best friend
+Rene Pinnell
+
+896
+00:45:26,155 --> 00:45:28,589
+have remained in
+regular contact.
+
+897
+00:45:28,691 --> 00:45:31,459
+Rene declined to give
+substantive interviews
+
+898
+00:45:31,561 --> 00:45:34,929
+to the press for fear they would
+be used against Ross in court,
+
+899
+00:45:35,031 --> 00:45:38,466
+but agreed to answer
+questions via email.
+
+900
+00:46:15,138 --> 00:46:18,272
+- WOMAN: [laughing]
+
+901
+00:46:18,374 --> 00:46:20,541
+- ULBRICHT:
+¶ I'm a little teapot ¶
+
+902
+00:46:20,643 --> 00:46:23,010
+¶ Short and stout ¶
+
+903
+00:46:23,112 --> 00:46:26,046
+¶ Here is my handle
+here is my spout ¶
+
+904
+00:46:26,149 --> 00:46:29,416
+¶ When I get all steamed up
+hear me shout ¶
+
+905
+00:46:29,519 --> 00:46:32,720
+¶ Tip me over
+and pour me out ¶
+
+906
+00:46:32,822 --> 00:46:33,921
+- WOMAN [off camera]
+Yay!
+
+907
+00:46:34,023 --> 00:46:36,791
+- BOTH: [laughing]
+
+908
+00:46:36,893 --> 00:46:39,360
+- REEVES NARRATING: Because
+of the severity of the charges,
+
+909
+00:46:39,462 --> 00:46:42,596
+Ross was not able to grant
+an interview from prison,
+
+910
+00:46:42,698 --> 00:46:43,664
+which left only a scattering
+
+911
+00:46:43,766 --> 00:46:46,467
+of his personal
+photographs and movies.
+
+912
+00:46:46,569 --> 00:46:48,269
+But from the exhaustive
+discussions
+
+913
+00:46:48,371 --> 00:46:50,070
+with friends and family
+
+914
+00:46:50,173 --> 00:46:52,339
+and the public knowledge
+of Ross's trajectory
+
+915
+00:46:52,441 --> 00:46:54,341
+from Physics
+and Engineering major
+
+916
+00:46:54,443 --> 00:46:57,077
+to running a small home-spun
+book-selling company,
+
+917
+00:46:57,180 --> 00:46:59,480
+it was difficult to understand
+how he could possibly
+
+918
+00:46:59,582 --> 00:47:02,082
+have been the sole mastermind
+of the Silk Road,
+
+919
+00:47:02,185 --> 00:47:04,451
+a vast and complex
+internet service
+
+920
+00:47:04,554 --> 00:47:07,955
+with over a million
+users worldwide.
+
+921
+00:47:08,057 --> 00:47:09,323
+Ross was certainly
+bright and studious
+
+922
+00:47:09,425 --> 00:47:12,493
+with a deep interest in
+Libertarian economic theory,
+
+923
+00:47:12,595 --> 00:47:14,628
+which clearly echoed
+the mandate and philosophy
+
+924
+00:47:14,730 --> 00:47:17,698
+of many of the posts
+of the Dread Pirate Roberts.
+
+925
+00:47:17,800 --> 00:47:20,968
+But he had no experience
+whatsoever in computer coding
+
+926
+00:47:21,070 --> 00:47:23,270
+or scaling large
+internet companies.
+
+927
+00:47:23,372 --> 00:47:26,040
+So how did Ross connect
+to what little is truly known
+
+928
+00:47:26,142 --> 00:47:28,609
+about the Dread Pirate Roberts?
+
+929
+00:47:28,711 --> 00:47:32,112
+DPR was motivated
+by a pacifistic philosophy
+
+930
+00:47:32,215 --> 00:47:34,849
+and an agenda of creating
+victimless exchange
+
+931
+00:47:34,951 --> 00:47:36,784
+and reduced harm
+in the drug trade.
+
+932
+00:47:36,886 --> 00:47:39,820
+This ethos would be embraced
+by the chief architects
+
+933
+00:47:39,922 --> 00:47:41,255
+and vendors of the Silk Road
+
+934
+00:47:41,357 --> 00:47:44,458
+and reverberate through
+the entire community.
+
+935
+00:47:44,560 --> 00:47:52,166
+- [digitally-altered voice]
+
+936
+00:48:18,427 --> 00:48:20,461
+- REEVES NARRATING:
+The Silk Road appeared to be
+
+937
+00:48:20,563 --> 00:48:22,963
+a successful experiment in
+creating a pacifistic community,
+
+938
+00:48:23,065 --> 00:48:26,600
+overseen by a figurehead with
+a deep-rooted ideology.
+
+939
+00:48:26,702 --> 00:48:29,570
+But these core ideals of
+the Dread Pirate Roberts
+
+940
+00:48:29,672 --> 00:48:33,007
+were completely at odds with
+the Murder-For-Hire allegations.
+
+941
+00:48:33,109 --> 00:48:35,442
+Did DPR become corrupted
+and turn his back on
+
+942
+00:48:35,544 --> 00:48:38,812
+the mandate of non-violence
+and harm reduction?
+
+943
+00:48:38,915 --> 00:48:41,682
+Were there other people
+using the DPR account
+
+944
+00:48:41,784 --> 00:48:44,585
+who were responsible
+for these actions?
+
+945
+00:48:44,687 --> 00:48:47,288
+Or was there some other truth
+behind these alleged
+
+946
+00:48:47,390 --> 00:48:52,159
+murder hits that
+produced no victims?
+
+947
+00:48:58,701 --> 00:49:01,702
+- We don't know the first
+piece of evidence
+
+948
+00:49:01,804 --> 00:49:05,873
+that lead the feds down
+this chain of investigation
+
+949
+00:49:05,975 --> 00:49:08,375
+to the San Francisco library
+
+950
+00:49:08,477 --> 00:49:10,844
+where Ross Ulbricht
+was arrested.
+
+951
+00:49:10,947 --> 00:49:12,446
+All we know is that
+at some point they located
+
+952
+00:49:12,548 --> 00:49:15,549
+the Silk Road servers
+in a data center
+
+953
+00:49:15,651 --> 00:49:17,885
+in Iceland and imaged them.
+
+954
+00:49:17,987 --> 00:49:21,855
+They copied all the data off
+of them, and seized them,
+
+955
+00:49:21,958 --> 00:49:24,391
+but we don't know how
+they found those servers.
+
+956
+00:49:24,493 --> 00:49:27,127
+The whole idea of...of
+the Silk Road was that it ran
+
+957
+00:49:27,229 --> 00:49:28,796
+as a Tor-hidden service,
+
+958
+00:49:28,898 --> 00:49:31,165
+which means that Tor protected
+its physical location
+
+959
+00:49:31,267 --> 00:49:33,033
+and made it very difficult
+
+960
+00:49:33,135 --> 00:49:34,835
+to locate the computers
+that ran it.
+
+961
+00:49:34,937 --> 00:49:40,507
+So the mystery of how the FBI,
+or the DEA, or possibly the NSA,
+
+962
+00:49:40,609 --> 00:49:44,244
+located those servers is still
+unsolved and, in fact,
+
+963
+00:49:44,347 --> 00:49:47,348
+hasn't been mentioned in
+any of the legal documents
+
+964
+00:49:47,450 --> 00:49:50,284
+surrounding
+Ross Ulbricht's trial.
+
+965
+00:49:50,386 --> 00:49:52,920
+I think his defense has seized
+on this as something
+
+966
+00:49:53,022 --> 00:49:55,389
+that the government
+doesn't want to talk about.
+
+967
+00:49:55,491 --> 00:49:58,492
+And if that's the case,
+then it does raise
+
+968
+00:49:58,594 --> 00:50:02,730
+these Fourth Amendment issues
+of...of can the government
+
+969
+00:50:02,832 --> 00:50:04,832
+use essentially
+hacking techniques
+
+970
+00:50:04,934 --> 00:50:08,202
+to dig up evidence on
+a criminal suspect?
+
+971
+00:50:08,304 --> 00:50:10,938
+And if so, what kinds
+of warrant do they need?
+
+972
+00:50:11,040 --> 00:50:13,307
+If in fact there was some
+kind of violation of
+
+973
+00:50:13,409 --> 00:50:15,409
+the Fourth Amendment,
+
+974
+00:50:15,511 --> 00:50:17,611
+in that initial part
+of the investigation,
+
+975
+00:50:17,713 --> 00:50:20,280
+that really was the first
+clue that lead them
+
+976
+00:50:20,383 --> 00:50:23,083
+down this entire chain to
+the arrest of Ross Ulbricht,
+
+977
+00:50:23,185 --> 00:50:24,618
+it could be a giant problem
+
+978
+00:50:24,720 --> 00:50:27,254
+for the prosecution that then
+taints every other piece
+
+979
+00:50:27,356 --> 00:50:31,291
+of evidence that
+they found subsequently.
+
+980
+00:50:31,394 --> 00:50:32,893
+- The government has
+prosecuted other people
+
+981
+00:50:32,995 --> 00:50:39,299
+for doing essentially what the
+government did here, which is...
+
+982
+00:50:39,402 --> 00:50:43,871
+trying to get underneath
+the public face of a website.
+
+983
+00:50:43,973 --> 00:50:46,573
+And they have alleged that
+getting that information
+
+984
+00:50:46,675 --> 00:50:48,475
+that's not supposed to
+be publicly accessible
+
+985
+00:50:48,577 --> 00:50:52,846
+by sophisticated computer,
+uh, inquiries or activities,
+
+986
+00:50:52,948 --> 00:50:56,617
+uh, that that is a...
+a violation of federal law.
+
+987
+00:50:56,719 --> 00:50:59,319
+And that's why they always say,
+we didn't do anything wrong,
+
+988
+00:50:59,422 --> 00:51:00,988
+we didn't do anything
+in violation,
+
+989
+00:51:01,090 --> 00:51:03,490
+but they really know what's
+stake here, because they've
+
+990
+00:51:03,592 --> 00:51:05,993
+actually prosecuted people
+for the same thing.
+
+991
+00:51:06,095 --> 00:51:09,530
+And the government's affidavit,
+the affidavit from Agent Tarbell
+
+992
+00:51:09,632 --> 00:51:12,166
+about how they got to
+the Silk Road servers
+
+993
+00:51:12,268 --> 00:51:14,435
+has been met with
+incredulousness
+
+994
+00:51:14,537 --> 00:51:17,738
+by the internet community.
+
+995
+00:51:17,840 --> 00:51:20,307
+- MAN: The Tarbell declaration,
+to put it politely,
+
+996
+00:51:20,409 --> 00:51:23,644
+seems vaguely disconnected
+from the truth.
+
+997
+00:51:23,746 --> 00:51:26,613
+If you...depending on which
+security expert you ask,
+
+998
+00:51:26,715 --> 00:51:30,884
+you will get it's vaguely
+disconnected to the truth
+
+999
+00:51:30,986 --> 00:51:32,219
+to something filled with...
+
+1000
+00:51:32,321 --> 00:51:35,222
+it is a massive pile
+of bovine excrement.
+
+1001
+00:51:35,324 --> 00:51:39,259
+What Tarbell's story was is he
+was typing away at his computer,
+
+1002
+00:51:39,361 --> 00:51:41,662
+visiting the Silk Road website
+
+1003
+00:51:41,764 --> 00:51:44,698
+and the CAPTCHA was
+transmitted in the clear,
+
+1004
+00:51:44,800 --> 00:51:47,134
+and he somehow
+saw the IP packets
+
+1005
+00:51:47,236 --> 00:51:49,169
+go directly to the server.
+
+1006
+00:51:49,271 --> 00:51:52,506
+And so he then connects to that
+server and gets the CAPTCHA.
+
+1007
+00:51:52,608 --> 00:51:54,975
+Game over--they found
+the backend server.
+
+1008
+00:51:55,077 --> 00:52:01,615
+Unfortunately, this was playing
+fast and loose with the truth.
+
+1009
+00:52:01,717 --> 00:52:06,053
+Because the logs provided
+to the defense show that
+
+1010
+00:52:06,155 --> 00:52:10,991
+what Tarbell found was
+not the CAPTCHA image,
+
+1011
+00:52:11,093 --> 00:52:14,361
+but instead a php MyAdmin page.
+
+1012
+00:52:14,463 --> 00:52:17,197
+The server was running some
+stuff over the clear,
+
+1013
+00:52:17,299 --> 00:52:18,866
+but not the CAPTCHA.
+
+1014
+00:52:18,968 --> 00:52:24,771
+So Tarbell's story doesn't mesh
+with the FBI's own evidence.
+
+1015
+00:52:24,874 --> 00:52:27,641
+- MAN: They hacked the servers
+and with that access
+
+1016
+00:52:27,743 --> 00:52:29,476
+could essentially
+do whatever they wanted.
+
+1017
+00:52:29,578 --> 00:52:31,178
+Given just the institutional
+pressure to...
+
+1018
+00:52:31,280 --> 00:52:32,746
+to take this thing down,
+
+1019
+00:52:32,848 --> 00:52:35,649
+it's naive to think
+that they didn't.
+
+1020
+00:52:35,751 --> 00:52:37,551
+- WILSON: Of course,
+it's on the table
+
+1021
+00:52:37,653 --> 00:52:39,453
+that this is how
+they discovered him.
+
+1022
+00:52:39,555 --> 00:52:41,255
+I mean he was dealing with Tor.
+
+1023
+00:52:41,357 --> 00:52:42,923
+He was dealing with
+all these technologies
+
+1024
+00:52:43,025 --> 00:52:45,058
+which we know are the subject
+of NSA investigations,
+
+1025
+00:52:45,161 --> 00:52:46,693
+as revealed by Edward Snowden.
+
+1026
+00:52:46,795 --> 00:52:49,396
+It's at least reasonable
+to assume that there's been
+
+1027
+00:52:49,498 --> 00:52:51,532
+this kind of parallel
+construction or interference
+
+1028
+00:52:51,634 --> 00:52:53,667
+or like not playing
+by the rules that the state
+
+1029
+00:52:53,769 --> 00:52:55,135
+deals out for you to play with.
+
+1030
+00:52:55,237 --> 00:52:58,205
+But then again, we all know
+that it deals the cards.
+
+1031
+00:52:58,307 --> 00:53:00,507
+Uh, it...it runs
+the game anyway.
+
+1032
+00:53:00,609 --> 00:53:02,276
+It's...it's not even...
+
+1033
+00:53:02,378 --> 00:53:05,279
+It's naive to think that this
+wasn't an available option.
+
+1034
+00:53:05,381 --> 00:53:08,448
+- SHIPLEY: The issue is whether
+the agent could have done
+
+1035
+00:53:08,551 --> 00:53:10,217
+what he said he did.
+
+1036
+00:53:10,319 --> 00:53:13,687
+The theory that's been brought
+forward in a testimony
+
+1037
+00:53:13,789 --> 00:53:16,089
+by the individual
+agents that did it,
+
+1038
+00:53:16,192 --> 00:53:20,260
+they were able to manipulate
+part of the server
+
+1039
+00:53:20,362 --> 00:53:23,664
+to cough up an address that
+shouldn't have been given up
+
+1040
+00:53:23,766 --> 00:53:26,233
+and that address came
+back to Iceland.
+
+1041
+00:53:26,335 --> 00:53:27,968
+And that server there
+
+1042
+00:53:28,070 --> 00:53:31,138
+was hosting
+the Silk Road hidden service.
+
+1043
+00:53:31,240 --> 00:53:33,707
+I think we're not gonna
+know till we go to trial
+
+1044
+00:53:33,809 --> 00:53:35,776
+and we may never know for sure.
+
+1045
+00:53:35,878 --> 00:53:39,646
+- There's always this balance
+of, uh, trying to be
+
+1046
+00:53:39,748 --> 00:53:41,682
+forward leaning in your
+investigative techniques
+
+1047
+00:53:41,784 --> 00:53:42,916
+and making sure that you don't
+
+1048
+00:53:43,018 --> 00:53:44,985
+trample on rights
+at the same time.
+
+1049
+00:53:45,087 --> 00:53:48,589
+You wanna stay well within the
+bounds of your legal authority,
+
+1050
+00:53:48,691 --> 00:53:51,158
+because if you step
+over the line,
+
+1051
+00:53:51,260 --> 00:53:52,826
+the evidence is gonna be tossed.
+
+1052
+00:53:52,928 --> 00:53:54,695
+It's not gonna be
+admissible in court
+
+1053
+00:53:54,797 --> 00:53:56,630
+and you may wind up, uh,
+
+1054
+00:53:56,732 --> 00:53:59,600
+jeopardizing the outcome
+of an entire investigation.
+
+1055
+00:53:59,702 --> 00:54:01,735
+And so I think what agencies
+will try and do is they'll...
+
+1056
+00:54:01,837 --> 00:54:03,737
+they'll want to step
+right up to the line,
+
+1057
+00:54:03,839 --> 00:54:05,706
+and maybe get a little bit
+of chalk on their toes,
+
+1058
+00:54:05,808 --> 00:54:07,741
+but don't step over it.
+
+1059
+00:54:07,843 --> 00:54:09,676
+- REEVES NARRATING:
+Ross' lawyer made a motion
+
+1060
+00:54:09,778 --> 00:54:12,145
+to dismiss the case based
+on the disputed seizure
+
+1061
+00:54:12,248 --> 00:54:14,214
+of the Silk Road servers,
+
+1062
+00:54:14,316 --> 00:54:17,718
+arguing that admitting this
+material not only violates
+
+1063
+00:54:17,820 --> 00:54:19,720
+his client's
+Fourth Amendment rights,
+
+1064
+00:54:19,822 --> 00:54:21,455
+but would set
+a dangerous precedent
+
+1065
+00:54:21,557 --> 00:54:24,958
+for the rights to privacy
+of all citizens.
+
+1066
+00:54:25,060 --> 00:54:27,761
+The judge, Katherine Forest,
+sided with the prosecution
+
+1067
+00:54:27,863 --> 00:54:31,331
+stating that the Tarbell
+declaration was acceptable.
+
+1068
+00:54:31,433 --> 00:54:33,233
+And the motion was denied.
+
+1069
+00:54:39,041 --> 00:54:41,675
+Search and seizure law
+in the digital age
+
+1070
+00:54:41,777 --> 00:54:46,913
+is really, uh, doesn't have
+the limitations on it that,
+
+1071
+00:54:47,016 --> 00:54:48,815
+um, it does in
+the physical space.
+
+1072
+00:54:48,917 --> 00:54:52,619
+And um, we see it not only in
+the search and seizure laws,
+
+1073
+00:54:52,721 --> 00:54:54,021
+like what is
+the standard upon which
+
+1074
+00:54:54,123 --> 00:54:56,256
+they can come and grab
+your computer?
+
+1075
+00:54:56,358 --> 00:54:57,658
+Um, what kind of
+searches can they do
+
+1076
+00:54:57,760 --> 00:54:59,760
+on your computer
+once they have it?
+
+1077
+00:54:59,862 --> 00:55:01,194
+Do they just get everything?
+
+1078
+00:55:01,297 --> 00:55:02,496
+We see this at the border.
+
+1079
+00:55:02,598 --> 00:55:03,930
+Or we see this at
+searches into arrests.
+
+1080
+00:55:04,033 --> 00:55:05,899
+People now carry
+around smart phones
+
+1081
+00:55:06,001 --> 00:55:08,568
+that have their whole
+lives in them.
+
+1082
+00:55:08,671 --> 00:55:11,305
+And if they get stopped,
+law enforcement is...
+
+1083
+00:55:11,407 --> 00:55:13,940
+is certainly right now in a lot
+of places taking the position
+
+1084
+00:55:14,043 --> 00:55:15,809
+that absolutely anything
+that's connected,
+
+1085
+00:55:15,911 --> 00:55:20,580
+that's on that device, including
+logging into your accounts
+
+1086
+00:55:20,683 --> 00:55:24,051
+that you can log into from
+that device, is fair game.
+
+1087
+00:55:24,153 --> 00:55:28,288
+- If the prosecution gets away
+with this warrantless seizure
+
+1088
+00:55:28,390 --> 00:55:32,459
+of Americans' data as well as
+all these other foreigners,
+
+1089
+00:55:32,561 --> 00:55:34,828
+it could have a lasting
+precedent for how
+
+1090
+00:55:34,930 --> 00:55:37,397
+the Fourth Amendment works
+in the digital age.
+
+1091
+00:55:37,499 --> 00:55:39,099
+I think that that, in fact,
+
+1092
+00:55:39,201 --> 00:55:42,135
+may be the most lasting
+effect of the Silk Road.
+
+1093
+00:55:42,237 --> 00:55:45,772
+- Generally, what happens
+in the criminal law field
+
+1094
+00:55:45,874 --> 00:55:50,544
+is that there's a...some case
+of...of major proportion
+
+1095
+00:55:50,646 --> 00:55:54,081
+that is used as a means
+of changing rules,
+
+1096
+00:55:54,183 --> 00:55:57,984
+or expanding exceptions to
+constitutional protections,
+
+1097
+00:55:58,087 --> 00:56:00,187
+and once it's there,
+once the precedent is set,
+
+1098
+00:56:00,289 --> 00:56:02,723
+it then trickles down very
+quickly and very easily
+
+1099
+00:56:02,825 --> 00:56:04,691
+into all sorts of
+ordinary cases where,
+
+1100
+00:56:04,793 --> 00:56:06,593
+you know, the ends
+justify the means.
+
+1101
+00:56:06,695 --> 00:56:08,595
+Then all of a sudden,
+it's now spread.
+
+1102
+00:56:08,697 --> 00:56:10,464
+- The average citizen may say,
+
+1103
+00:56:10,566 --> 00:56:12,366
+"Well, why is this
+important to me?
+
+1104
+00:56:12,468 --> 00:56:13,867
+"Why do I care?
+
+1105
+00:56:13,969 --> 00:56:15,168
+"I'm not buying drugs
+on the network.
+
+1106
+00:56:15,270 --> 00:56:17,270
+Nobody I know is buying
+drugs on the network,"
+
+1107
+00:56:17,373 --> 00:56:18,772
+but it's not just about that.
+
+1108
+00:56:18,874 --> 00:56:23,877
+We're a democracy and informed
+citizens, uh, um,
+
+1109
+00:56:23,979 --> 00:56:26,179
+understand they have
+a right to privacy
+
+1110
+00:56:26,281 --> 00:56:29,616
+and that the Fourth Amendment
+protects against
+
+1111
+00:56:29,718 --> 00:56:31,485
+unreasonable searches
+and seizures.
+
+1112
+00:56:31,587 --> 00:56:33,420
+Information has to be encrypted.
+
+1113
+00:56:33,522 --> 00:56:35,822
+And that goes from
+a large corporation
+
+1114
+00:56:35,924 --> 00:56:37,324
+down to an individual.
+
+1115
+00:56:37,426 --> 00:56:40,761
+And so for those who
+are arguing that information
+
+1116
+00:56:40,863 --> 00:56:42,696
+should not be encrypted,
+
+1117
+00:56:42,798 --> 00:56:45,432
+certainly that makes it easier
+for law enforcement
+
+1118
+00:56:45,534 --> 00:56:47,901
+to, um...combat,
+
+1119
+00:56:48,003 --> 00:56:50,670
+but it also makes it easier for
+the cyber criminals to attack.
+
+1120
+00:56:50,773 --> 00:56:52,706
+- It makes total sense
+that criminals
+
+1121
+00:56:52,808 --> 00:56:54,541
+are among the early wave,
+
+1122
+00:56:54,643 --> 00:56:56,476
+along with the sort
+of paranoid people,
+
+1123
+00:56:56,578 --> 00:56:58,345
+of these new tools and services.
+
+1124
+00:56:58,447 --> 00:56:59,913
+But that doesn't mean that
+
+1125
+00:57:00,015 --> 00:57:01,815
+they're the only people
+using these services.
+
+1126
+00:57:01,917 --> 00:57:03,517
+You know, there are a hell of
+a lot of journalists
+
+1127
+00:57:03,619 --> 00:57:06,720
+that I know and regularly
+communicate with now over Tor.
+
+1128
+00:57:06,822 --> 00:57:08,355
+But you know, for the people
+
+1129
+00:57:08,457 --> 00:57:11,591
+who oppose this technology,
+who see it as a threat,
+
+1130
+00:57:11,693 --> 00:57:13,193
+the fact that criminals use it
+
+1131
+00:57:13,295 --> 00:57:15,228
+is a great way to...
+to demonize it.
+
+1132
+00:57:15,330 --> 00:57:17,063
+- I definitely do believe
+that there are people
+
+1133
+00:57:17,166 --> 00:57:19,232
+in the US that don't think
+that the government
+
+1134
+00:57:19,334 --> 00:57:20,934
+is doing anything wrong.
+
+1135
+00:57:21,036 --> 00:57:23,537
+It's not necessarily something
+that you're concerned with
+
+1136
+00:57:23,639 --> 00:57:25,372
+or that you care too much about
+
+1137
+00:57:25,474 --> 00:57:26,973
+or that you're really
+passionate about until you...
+
+1138
+00:57:27,075 --> 00:57:28,742
+you're standing right
+in the middle of it.
+
+1139
+00:57:28,844 --> 00:57:30,010
+- And it's something
+more dangerous
+
+1140
+00:57:30,112 --> 00:57:32,479
+than any website could ever be
+
+1141
+00:57:32,581 --> 00:57:36,283
+is what our government has
+become and how they operate.
+
+1142
+00:57:36,385 --> 00:57:38,251
+- This goes back to that
+question of the government
+
+1143
+00:57:38,353 --> 00:57:40,454
+kind of trying to treat the
+internet differently without,
+
+1144
+00:57:40,556 --> 00:57:44,991
+uh, following the same kind of,
+uh, judicial processes.
+
+1145
+00:57:45,093 --> 00:57:48,261
+- Well the Supreme Court has
+proven that they do not agree.
+
+1146
+00:57:48,363 --> 00:57:50,797
+You know, recently with
+Riley vs California
+
+1147
+00:57:50,899 --> 00:57:53,533
+with an illegal search
+of a cell phone.
+
+1148
+00:57:53,635 --> 00:57:55,302
+Precedent can be set
+
+1149
+00:57:55,404 --> 00:57:59,473
+that will limit their ability
+to infringe on our rights.
+
+1150
+00:57:59,575 --> 00:58:04,010
+- SANDVIK: Someone asked how her
+political views have shifted.
+
+1151
+00:58:04,112 --> 00:58:08,081
+Because suddenly she's standing
+right in the middle of Tor,
+
+1152
+00:58:08,183 --> 00:58:13,220
+Bitcoin, the war on drugs,
+online anonymity, encryption.
+
+1153
+00:58:13,322 --> 00:58:17,057
+And she's had a...she's had to
+learn a lot of different things,
+
+1154
+00:58:17,159 --> 00:58:20,694
+and also not only just the whole
+legal system but, uh,
+
+1155
+00:58:20,796 --> 00:58:22,662
+everything around
+the technology and the case.
+
+1156
+00:58:22,764 --> 00:58:26,266
+- CROWD: [applauding]
+
+1157
+00:58:26,368 --> 00:58:28,201
+- REEVES NARRATING:
+After over a year in prison,
+
+1158
+00:58:28,303 --> 00:58:30,237
+Ross delayed
+the trial two months,
+
+1159
+00:58:30,339 --> 00:58:32,772
+stating that important
+discovery evidence
+
+1160
+00:58:32,875 --> 00:58:34,941
+he needed to examine
+
+1161
+00:58:35,043 --> 00:58:37,978
+had only just been delivered
+to him by the prosecution.
+
+1162
+00:58:38,080 --> 00:58:39,946
+-- The FBI shut down
+what it calls
+
+1163
+00:58:40,048 --> 00:58:43,049
+the most sophisticated and
+extensive criminal marketplace
+
+1164
+00:58:43,151 --> 00:58:47,020
+on the internet, but it may
+be finding new life.
+
+1165
+00:58:47,122 --> 00:58:48,388
+- REEVES NARRATING:
+The arrest of Ross Ulbricht
+
+1166
+00:58:48,490 --> 00:58:50,156
+and closure of the Silk Road
+
+1167
+00:58:50,259 --> 00:58:53,660
+did nothing to hamper
+drug sales on the dark net.
+
+1168
+00:58:53,762 --> 00:58:55,729
+Many new markets
+immediately appeared,
+
+1169
+00:58:55,831 --> 00:58:58,865
+including a re-launch of
+the Silk Road itself,
+
+1170
+00:58:58,967 --> 00:59:01,001
+also run by someone
+calling themselves
+
+1171
+00:59:01,103 --> 00:59:03,270
+the Dread Pirate Roberts.
+
+1172
+00:59:03,372 --> 00:59:05,305
+And like its predecessor,
+the second Silk Road
+
+1173
+00:59:05,407 --> 00:59:08,141
+also claimed a mandate
+of reducing violence
+
+1174
+00:59:08,243 --> 00:59:10,944
+and harm in drug transactions.
+
+1175
+00:59:11,046 --> 00:59:12,479
+- MALE NEWSCASTER:
+The Dread Pirate tweets,
+
+1176
+00:59:12,581 --> 00:59:16,283
+"Silk Road while under
+my watch will never harm a soul.
+
+1177
+00:59:16,385 --> 00:59:19,819
+If we did, then we are no better
+than the thugs on the street."
+
+1178
+00:59:19,922 --> 00:59:23,089
+- The new Dread Pirate Roberts
+told me that he knows
+
+1179
+00:59:23,191 --> 00:59:26,660
+he can't be around forever,
+and when he's gone,
+
+1180
+00:59:26,762 --> 00:59:28,995
+someone else...he's
+confident someone else
+
+1181
+00:59:29,097 --> 00:59:30,697
+will step up and fill the void.
+
+1182
+00:59:30,799 --> 00:59:34,267
+You can take down the man, but
+you can't take down the idea.
+
+1183
+00:59:34,369 --> 00:59:35,669
+- REEVES NARRATING: By this
+time, statistics appeared
+
+1184
+00:59:35,771 --> 00:59:38,939
+claiming the first Silk Road
+had succeeded in its mission
+
+1185
+00:59:39,041 --> 00:59:42,275
+of reducing violence
+in the drug trade.
+
+1186
+00:59:49,117 --> 00:59:50,884
+- MAN: While I was with
+the Baltimore Police Department
+
+1187
+00:59:50,986 --> 00:59:52,686
+in the early 2000s,
+
+1188
+00:59:52,788 --> 00:59:54,821
+I had two city
+officers in uniform
+
+1189
+00:59:54,923 --> 00:59:57,490
+killed by drug dealers
+on the street.
+
+1190
+00:59:57,593 --> 00:59:59,292
+And there was a family of seven,
+
+1191
+00:59:59,394 --> 01:00:02,295
+the Dawson family
+on Preston Street,
+
+1192
+01:00:02,397 --> 01:00:04,764
+they were killed by one drug
+dealer in one night--
+
+1193
+01:00:04,866 --> 01:00:09,035
+mother, father and five kids.
+
+1194
+01:00:09,137 --> 01:00:13,473
+And so as the years in the early
+2000s start moving along,
+
+1195
+01:00:13,575 --> 01:00:18,178
+I'm continuing to think about
+this from a place of violence
+
+1196
+01:00:18,280 --> 01:00:21,881
+and beginning to realize that
+our policies of drug prohibition
+
+1197
+01:00:21,984 --> 01:00:24,918
+were actually counterproductive
+to public safety.
+
+1198
+01:00:25,020 --> 01:00:28,455
+The one thing that I signed
+on for to improve,
+
+1199
+01:00:28,557 --> 01:00:30,890
+to better public safety
+in our neighborhoods,
+
+1200
+01:00:30,993 --> 01:00:32,626
+was making it worse.
+
+1201
+01:00:32,728 --> 01:00:38,732
+And, uh, I found a large number
+of police officers and judges
+
+1202
+01:00:38,834 --> 01:00:42,102
+and criminal prosecutors
+and DEA agents
+
+1203
+01:00:42,204 --> 01:00:46,006
+and FBI who think the same way.
+
+1204
+01:00:46,108 --> 01:00:49,909
+If Baltimore moved from street
+corners to online services,
+
+1205
+01:00:50,012 --> 01:00:52,145
+oh, my God, do you know
+how many shootings,
+
+1206
+01:00:52,247 --> 01:00:53,947
+how many fewer shootings
+we would have every year,
+
+1207
+01:00:54,049 --> 01:00:56,249
+which equate to fewer homicides?
+
+1208
+01:00:56,351 --> 01:00:58,184
+Number one, it removes the...
+
+1209
+01:00:58,286 --> 01:01:04,391
+the buyer from the back alleys
+and from the street corners
+
+1210
+01:01:04,493 --> 01:01:07,093
+and from those dangerous places
+of dealing with the seller.
+
+1211
+01:01:07,195 --> 01:01:09,696
+Buying it over the internet
+where it's delivered to you,
+
+1212
+01:01:09,798 --> 01:01:11,531
+removes you from that scenario.
+
+1213
+01:01:11,633 --> 01:01:13,733
+- Well, one of the interesting
+things that having
+
+1214
+01:01:13,835 --> 01:01:16,302
+an online market
+does is that it makes
+
+1215
+01:01:16,405 --> 01:01:18,171
+sellers much more
+accountable to buyers.
+
+1216
+01:01:18,273 --> 01:01:19,739
+And one of the really
+interesting innovations
+
+1217
+01:01:19,841 --> 01:01:21,441
+is the whole review system,
+
+1218
+01:01:21,543 --> 01:01:25,078
+where buyers can review
+the sellers and the items
+
+1219
+01:01:25,180 --> 01:01:28,948
+that they bought from these,
+uh, on these market places.
+
+1220
+01:01:29,051 --> 01:01:31,851
+And what that does is it makes
+sellers more accountable
+
+1221
+01:01:31,953 --> 01:01:33,586
+and it lets buyers...
+
+1222
+01:01:33,689 --> 01:01:37,090
+It gives buyers a way
+to assess both the quality,
+
+1223
+01:01:37,192 --> 01:01:40,527
+the purity and the potency of
+the drugs they're getting.
+
+1224
+01:01:40,629 --> 01:01:44,431
+It makes, uh, these transactions
+much more safe for the buyers.
+
+1225
+01:01:44,533 --> 01:01:48,802
+- But we're shutting them down,
+attempting to shut them down,
+
+1226
+01:01:48,904 --> 01:01:52,405
+because we will
+never shut them down.
+
+1227
+01:01:52,507 --> 01:01:55,475
+We've been at this drug war
+now for over four decades,
+
+1228
+01:01:55,577 --> 01:01:57,510
+and what has happened
+since then?
+
+1229
+01:01:57,612 --> 01:01:59,479
+At the beginning,
+it was just the cartels
+
+1230
+01:01:59,581 --> 01:02:02,182
+and organized crime
+making a ton of money.
+
+1231
+01:02:02,284 --> 01:02:06,486
+Today, they make globally
+$322 billion off this industry.
+
+1232
+01:02:06,588 --> 01:02:09,756
+Corporate America's
+also now in the game.
+
+1233
+01:02:09,858 --> 01:02:11,791
+Private prisons, okay?
+
+1234
+01:02:11,893 --> 01:02:13,893
+Corrections Corporation
+of America.
+
+1235
+01:02:13,995 --> 01:02:15,528
+About a year ago they gave out
+
+1236
+01:02:15,630 --> 01:02:19,199
+$675 million in dividends
+to the shareholders.
+
+1237
+01:02:19,301 --> 01:02:20,967
+Drug testing companies.
+
+1238
+01:02:21,069 --> 01:02:23,570
+It's now become
+a multi-billion-dollar industry.
+
+1239
+01:02:23,672 --> 01:02:25,438
+And who gets tested?
+
+1240
+01:02:25,540 --> 01:02:27,874
+Those who are in prison
+or under the control
+
+1241
+01:02:27,976 --> 01:02:29,943
+of our criminal
+justice programs--
+
+1242
+01:02:30,045 --> 01:02:31,678
+on parole and probation.
+
+1243
+01:02:31,780 --> 01:02:34,047
+So corporate America's
+making a lot of money.
+
+1244
+01:02:34,149 --> 01:02:35,381
+What about law enforcement?
+
+1245
+01:02:35,484 --> 01:02:37,517
+Law enforcement's
+making a ton of money.
+
+1246
+01:02:37,619 --> 01:02:40,019
+The government's
+1033 Program, you know,
+
+1247
+01:02:40,122 --> 01:02:43,323
+where we get armored
+vehicles and machine guns
+
+1248
+01:02:43,425 --> 01:02:46,960
+and whatever we want of
+the surplus military equipment--
+
+1249
+01:02:47,062 --> 01:02:48,728
+that's because of the drug war.
+
+1250
+01:02:48,830 --> 01:02:52,232
+- Over the years we've seen
+these...these huge bureaucracies
+
+1251
+01:02:52,334 --> 01:02:55,535
+build up around the drug war,
+around prosecuting the drug war.
+
+1252
+01:02:55,637 --> 01:02:57,470
+You've got
+the Drug Enforcement Agency.
+
+1253
+01:02:57,572 --> 01:03:00,206
+You've got the Office of
+National Drug Control Policy.
+
+1254
+01:03:00,308 --> 01:03:03,610
+So a lot of the...a lot of
+the opposition is just rooted in
+
+1255
+01:03:03,712 --> 01:03:08,181
+self interest among places
+like the FBI and the DEA,
+
+1256
+01:03:08,283 --> 01:03:10,583
+where if you're telling somebody
+who's been in the FBI
+
+1257
+01:03:10,685 --> 01:03:14,154
+for 30 years that drugs
+are no longer a priority,
+
+1258
+01:03:14,256 --> 01:03:16,222
+that's an existential
+threat to them.
+
+1259
+01:03:16,324 --> 01:03:18,491
+That kind of takes away their
+whole reason for existence.
+
+1260
+01:03:18,593 --> 01:03:20,426
+- You really have
+to think about
+
+1261
+01:03:20,529 --> 01:03:23,263
+the danger of some
+of these drugs,
+
+1262
+01:03:23,365 --> 01:03:26,166
+the severe danger of addiction,
+
+1263
+01:03:26,268 --> 01:03:29,602
+uh, the havoc that it, you know,
+that it reaps on families
+
+1264
+01:03:29,704 --> 01:03:33,873
+and, you know, and children,
+and, uh, careers.
+
+1265
+01:03:33,975 --> 01:03:35,441
+And so to say that, you know,
+
+1266
+01:03:35,544 --> 01:03:37,677
+we need to step back
+and liberalize,
+
+1267
+01:03:37,779 --> 01:03:40,613
+well, but you...that's one
+approach you can take,
+
+1268
+01:03:40,715 --> 01:03:42,882
+but then you've got to look
+at a cause and effect.
+
+1269
+01:03:42,984 --> 01:03:46,286
+If we do this, what are the
+second and third order effects?
+
+1270
+01:03:50,559 --> 01:03:52,525
+- FRANKLIN: The FBI,
+our federal government,
+
+1271
+01:03:52,627 --> 01:03:54,494
+they're gonna go in and they're
+shutting these places down.
+
+1272
+01:03:54,596 --> 01:03:56,462
+But you know what?
+New ones just open up.
+
+1273
+01:03:56,565 --> 01:03:58,698
+'Cause there's so much
+money to be made.
+
+1274
+01:03:58,800 --> 01:03:59,966
+They'll continue to open up,
+
+1275
+01:04:00,068 --> 01:04:02,836
+and it's just
+a dog chasing its tail.
+
+1276
+01:04:12,848 --> 01:04:14,414
+- KIRK ULBRICHT: We're a team,
+and we've been working on
+
+1277
+01:04:14,516 --> 01:04:18,451
+this thing together
+right from the start.
+
+1278
+01:04:18,553 --> 01:04:21,020
+The way it's affected me
+is in some ways
+
+1279
+01:04:21,122 --> 01:04:23,423
+very much the same
+as it affects Lyn,
+
+1280
+01:04:23,525 --> 01:04:26,793
+but I don't have to go out
+there and talk to reporters.
+
+1281
+01:04:26,895 --> 01:04:29,929
+And we've...we've kind
+of set it up that way.
+
+1282
+01:04:30,031 --> 01:04:34,434
+- It's hard enough having
+your...your loved one in prison,
+
+1283
+01:04:34,536 --> 01:04:39,105
+but then the whole media thing
+is, it definitely adds pressure.
+
+1284
+01:04:39,207 --> 01:04:40,506
+- I've known for a long time
+
+1285
+01:04:40,609 --> 01:04:44,711
+that the media wasn't
+reporting the whole story,
+
+1286
+01:04:44,813 --> 01:04:47,347
+that it was skewed.
+
+1287
+01:04:47,449 --> 01:04:55,521
+I see what Lyn and I are doing
+as a, um, as a pushback to that.
+
+1288
+01:04:55,624 --> 01:04:57,156
+- Ross has been in
+there a year and he's...
+
+1289
+01:04:57,259 --> 01:05:00,093
+he's avoided all violence,
+
+1290
+01:05:00,195 --> 01:05:02,528
+even though it's
+been around him.
+
+1291
+01:05:02,631 --> 01:05:05,798
+That has matured him for sure.
+
+1292
+01:05:05,901 --> 01:05:09,168
+The fact that he's come out
+of this unscathed so far,
+
+1293
+01:05:09,271 --> 01:05:12,005
+uh, speaks volumes.
+
+1294
+01:05:12,107 --> 01:05:13,907
+- LYN ULBRICHT:
+He seems serious.
+
+1295
+01:05:14,009 --> 01:05:15,742
+You know, there's
+a lot at stake.
+
+1296
+01:05:15,844 --> 01:05:20,179
+He's, uh, feeling good
+that we got the extension.
+
+1297
+01:05:20,282 --> 01:05:22,849
+He had this mountain
+of stuff to go through
+
+1298
+01:05:22,951 --> 01:05:26,552
+and I felt like he was
+running out the clock.
+
+1299
+01:05:26,655 --> 01:05:29,989
+And now they have that
+extra two months has made...
+
+1300
+01:05:30,091 --> 01:05:32,525
+has been "essential"
+is the word he used.
+
+1301
+01:05:32,627 --> 01:05:34,894
+And so I think
+he feels that, you know,
+
+1302
+01:05:34,996 --> 01:05:38,564
+he's...he's much more
+prepared and...and ready.
+
+1303
+01:05:38,667 --> 01:05:40,967
+- Yeah, he says he's
+ready for trial.
+
+1304
+01:05:41,069 --> 01:05:42,969
+He's ready to go
+in there and win.
+
+1305
+01:05:45,507 --> 01:05:48,841
+I have also matured
+in this last year.
+
+1306
+01:05:48,944 --> 01:05:54,414
+Matured in my thinking
+about ethics, politics.
+
+1307
+01:05:54,516 --> 01:05:57,183
+When I became
+more and more aware of
+
+1308
+01:05:57,285 --> 01:06:01,754
+what the drug war
+was doing, the tragedy.
+
+1309
+01:06:01,856 --> 01:06:06,025
+So many people have been
+victimized by the drug war.
+
+1310
+01:06:06,127 --> 01:06:10,563
+It's a giant mess and it's
+a story that needs telling.
+
+1311
+01:06:10,665 --> 01:06:15,668
+And we...we've got a pulpit,
+in a way, to tell it from.
+
+1312
+01:06:15,770 --> 01:06:18,638
+- It's so weird to be doing
+all this and it's...
+
+1313
+01:06:18,740 --> 01:06:22,175
+it's distracting and it's...
+it's challenging
+
+1314
+01:06:22,277 --> 01:06:23,409
+and you wanna do
+the right thing,
+
+1315
+01:06:23,511 --> 01:06:25,445
+and then it's all about Ross.
+
+1316
+01:06:25,547 --> 01:06:28,381
+And then we go and we see him
+and hug him and talk to him
+
+1317
+01:06:28,483 --> 01:06:32,151
+and hold his hand and it's
+just like Ross, you know?
+
+1318
+01:06:32,253 --> 01:06:33,753
+It's such a disconnect, and, uh,
+
+1319
+01:06:33,855 --> 01:06:37,056
+it's just so hard to
+see him in there.
+
+1320
+01:06:41,896 --> 01:06:44,597
+- KIRK ULBRICHT:
+Being in the prison, visiting,
+
+1321
+01:06:44,699 --> 01:06:46,399
+it's a very emotional
+experience,
+
+1322
+01:06:46,501 --> 01:06:49,302
+because there are all
+these families there
+
+1323
+01:06:49,404 --> 01:06:53,339
+and they get to see their
+loved one one hour a week.
+
+1324
+01:06:53,441 --> 01:06:56,142
+And so they're soaking
+each other up.
+
+1325
+01:06:56,244 --> 01:06:59,078
+And you're in a room
+of 150 people,
+
+1326
+01:06:59,180 --> 01:07:01,647
+sitting side-by-side,
+tight-packed.
+
+1327
+01:07:01,750 --> 01:07:05,351
+And, uh, there's just
+all this emotion
+
+1328
+01:07:05,453 --> 01:07:07,854
+saturating the atmosphere.
+
+1329
+01:07:19,834 --> 01:07:23,970
+- KIRK ULBRICHT: The prisoners
+have segregated themselves.
+
+1330
+01:07:24,072 --> 01:07:28,975
+But as loved ones coming to
+visit, there's no sense of,
+
+1331
+01:07:29,077 --> 01:07:33,713
+uh, segregation, um,
+race at all.
+
+1332
+01:07:33,815 --> 01:07:38,418
+We're just 150 people whose
+hearts are breaking.
+
+1333
+01:07:54,669 --> 01:07:56,135
+- SOGHOIAN: Of all
+the Snowden disclosures
+
+1334
+01:07:56,237 --> 01:07:57,570
+that have come out to date,
+
+1335
+01:07:57,672 --> 01:08:00,773
+the one that will have
+the greatest long-term impact
+
+1336
+01:08:00,875 --> 01:08:04,043
+is the revelation that the NSA
+has been subverting
+
+1337
+01:08:04,145 --> 01:08:07,013
+cryptographic standards and
+making the internet less secure.
+
+1338
+01:08:07,115 --> 01:08:11,284
+That disclosure, those articles,
+have radicalized
+
+1339
+01:08:11,386 --> 01:08:13,586
+a new generation
+of cryptographers,
+
+1340
+01:08:13,688 --> 01:08:15,655
+a new generation
+of computer scientists
+
+1341
+01:08:15,757 --> 01:08:18,658
+who are now intent upon
+building tools and services
+
+1342
+01:08:18,760 --> 01:08:22,595
+that can withstand pervasive
+government surveillance.
+
+1343
+01:08:22,697 --> 01:08:26,499
+- Did you see our wireless
+from Barclay's Bank?
+
+1344
+01:08:26,601 --> 01:08:29,035
+They like Bitcoin, so they're
+supporting our work.
+
+1345
+01:08:29,137 --> 01:08:32,905
+They're providing us with
+free Wi-Fi from the bank.
+
+1346
+01:08:35,710 --> 01:08:38,177
+- REEVES NARRATING:
+In the fall of 2014,
+
+1347
+01:08:38,279 --> 01:08:40,513
+as Ross was preparing
+for his trial,
+
+1348
+01:08:40,615 --> 01:08:42,882
+a group of hackers,
+programmers and activists
+
+1349
+01:08:42,984 --> 01:08:46,085
+met in a squat in
+the center of London.
+
+1350
+01:08:46,187 --> 01:08:49,622
+This gathering represented
+the next wave of the dark net,
+
+1351
+01:08:49,724 --> 01:08:52,458
+developing new and evolved
+cryptographic tools
+
+1352
+01:08:52,560 --> 01:08:55,495
+that would not be
+so easily shut down.
+
+1353
+01:08:55,597 --> 01:08:57,663
+- Open source
+is incredibly powerful.
+
+1354
+01:08:57,765 --> 01:09:01,134
+Open source is responsible for
+WikiLeaks, Wikipedia, Linux,
+
+1355
+01:09:01,236 --> 01:09:05,104
+which runs all of our...
+our infrastructure, for Firefox,
+
+1356
+01:09:05,206 --> 01:09:08,975
+for Bit Torrent, for Bitcoin,
+for all of these,
+
+1357
+01:09:09,077 --> 01:09:11,644
+for encryption, for all of
+these real uses of tech--
+
+1358
+01:09:11,746 --> 01:09:16,449
+not the yuppie, uh,
+Angry Birds or silly apps that,
+
+1359
+01:09:16,551 --> 01:09:19,018
+that these people,
+make, you know?
+
+1360
+01:09:19,120 --> 01:09:22,421
+Open source is also an example
+of how we can organize
+
+1361
+01:09:22,524 --> 01:09:26,125
+economically, an example
+for the future, to...
+
+1362
+01:09:26,227 --> 01:09:28,361
+to build the products we need
+
+1363
+01:09:28,463 --> 01:09:30,363
+without needing
+proprietary industry,
+
+1364
+01:09:30,465 --> 01:09:33,099
+without needing
+the points of control,
+
+1365
+01:09:33,201 --> 01:09:38,604
+without needing masters
+and slaves and babysitters.
+
+1366
+01:09:38,706 --> 01:09:42,441
+- SOGHOIAN: It's not enough to
+build privacy-preserving tools.
+
+1367
+01:09:42,544 --> 01:09:45,945
+It's not enough to write
+revolutionary research papers
+
+1368
+01:09:46,047 --> 01:09:49,615
+and design amazing
+cryptographic primitives.
+
+1369
+01:09:49,717 --> 01:09:52,485
+You have to get them into
+the hands of the users.
+
+1370
+01:09:52,587 --> 01:09:55,755
+And I think in the future
+what you'll find is that
+
+1371
+01:09:55,857 --> 01:10:00,259
+tools like Tor, tools like OTR,
+like PGP, like Bitcoin
+
+1372
+01:10:00,361 --> 01:10:03,262
+will be built into the services
+and applications that you use
+
+1373
+01:10:03,364 --> 01:10:06,499
+and you won't know
+they're there.
+
+1374
+01:10:06,601 --> 01:10:08,901
+- TAAKI: We want to empower
+the individual,
+
+1375
+01:10:09,003 --> 01:10:10,736
+protect the small guy.
+
+1376
+01:10:10,838 --> 01:10:13,573
+We have a mistrust
+of central authority.
+
+1377
+01:10:13,675 --> 01:10:15,875
+We believe in freedom
+of information.
+
+1378
+01:10:15,977 --> 01:10:18,344
+First of all,
+we have the centralized
+
+1379
+01:10:18,446 --> 01:10:20,680
+drug marketplace, Silk Road.
+
+1380
+01:10:20,782 --> 01:10:23,449
+Governments went in
+and shut that down.
+
+1381
+01:10:23,551 --> 01:10:26,686
+And then up sprouted
+dozens of different,
+
+1382
+01:10:26,788 --> 01:10:29,155
+centralized drug markets.
+
+1383
+01:10:29,257 --> 01:10:32,391
+And in a game of whack a mole,
+they shut down one
+
+1384
+01:10:32,493 --> 01:10:34,227
+and now there's dozens.
+
+1385
+01:10:34,329 --> 01:10:36,562
+And now we're entering the realm
+of decentralized drug markets,
+
+1386
+01:10:36,664 --> 01:10:39,565
+with no central operator,
+no central point of control.
+
+1387
+01:10:39,667 --> 01:10:41,133
+What are they gonna do?
+
+1388
+01:10:43,938 --> 01:10:45,938
+- SHIPLEY: They're gonna
+continue to do
+
+1389
+01:10:46,040 --> 01:10:48,641
+these kinds of things, and even
+if it's a distributed network,
+
+1390
+01:10:48,743 --> 01:10:52,912
+peer-to-peer is worked
+continuously by the, uh,
+
+1391
+01:10:53,014 --> 01:10:54,614
+state and local law
+enforcement agencies.
+
+1392
+01:10:54,716 --> 01:10:57,984
+And they arrest
+people every week.
+
+1393
+01:10:58,086 --> 01:11:01,320
+- REEVES NARRATING:
+On November 6, 2014,
+
+1394
+01:11:01,422 --> 01:11:03,356
+law enforcement agencies
+around the world
+
+1395
+01:11:03,458 --> 01:11:06,525
+launched a coordinated effort
+called "Operation Onymous,"
+
+1396
+01:11:06,628 --> 01:11:08,794
+seizing hundreds
+of dark net sites,
+
+1397
+01:11:08,896 --> 01:11:11,597
+including the re-launch
+of the Silk Road.
+
+1398
+01:11:11,699 --> 01:11:13,099
+- GREENBERG: Bruce Schneier,
+the cryptographer,
+
+1399
+01:11:13,201 --> 01:11:14,934
+once said to me,
+
+1400
+01:11:15,036 --> 01:11:16,969
+"You know, in this
+cat and mouse game,
+
+1401
+01:11:17,071 --> 01:11:19,472
+the mice will win in the end,
+but the cats will be well fed."
+
+1402
+01:11:19,574 --> 01:11:21,540
+I think that that's
+the way to see it.
+
+1403
+01:11:21,643 --> 01:11:25,811
+That, uh, this game is going
+to continue forever.
+
+1404
+01:11:46,067 --> 01:11:48,134
+- WILSON: There's a reason
+the Silk Road was so powerful.
+
+1405
+01:11:48,236 --> 01:11:49,735
+And I...and I know the cryptos
+now are writing
+
+1406
+01:11:49,837 --> 01:11:51,837
+the kind of automatic Silk Road,
+and Amir helped do this.
+
+1407
+01:11:51,939 --> 01:11:53,939
+This is now the peer-to-peer
+model where there's
+
+1408
+01:11:54,042 --> 01:11:56,242
+no one individual
+administrator.
+
+1409
+01:11:56,344 --> 01:11:58,744
+And seeing that as the weak
+point, technically speaking,
+
+1410
+01:11:58,846 --> 01:12:00,112
+this is all correct.
+
+1411
+01:12:00,214 --> 01:12:02,415
+But there...there's
+something kind of...
+
+1412
+01:12:02,517 --> 01:12:06,085
+I don't want to make him
+a hero, like a...
+
+1413
+01:12:06,187 --> 01:12:07,853
+I don't want to say
+that he's a hero.
+
+1414
+01:12:07,955 --> 01:12:11,123
+But you know, DPR recognized
+what was at stake
+
+1415
+01:12:11,225 --> 01:12:13,726
+and he was willing to do
+the things that most of
+
+1416
+01:12:13,828 --> 01:12:15,594
+the Libertarians
+weren't willing to do,
+
+1417
+01:12:15,697 --> 01:12:19,799
+because he was serious about, I
+think what the Silk Road meant.
+
+1418
+01:12:21,002 --> 01:12:23,402
+- REEVES NARRATING:
+Three weeks before the trial,
+
+1419
+01:12:23,504 --> 01:12:27,039
+the issue of the Murders-
+For-Hire suddenly resurfaced.
+
+1420
+01:12:27,141 --> 01:12:30,209
+The prosecution announced that
+due to these allegations,
+
+1421
+01:12:30,311 --> 01:12:32,812
+they would not allow
+Ross's defense to know
+
+1422
+01:12:32,914 --> 01:12:35,081
+the identities of
+their witnesses.
+
+1423
+01:12:35,183 --> 01:12:37,850
+The defense responded that using
+these uncharged crimes
+
+1424
+01:12:37,952 --> 01:12:40,686
+in these manner was
+prejudicial.
+
+1425
+01:12:40,788 --> 01:12:44,090
+A hearing was called
+to resolve the matter.
+
+1426
+01:12:46,894 --> 01:12:49,161
+- LYN ULBRICHT: The judge ruled
+that some of the witnesses
+
+1427
+01:12:49,263 --> 01:12:50,863
+won't be made available
+to the defense
+
+1428
+01:12:50,965 --> 01:12:53,899
+until right before the trial.
+
+1429
+01:12:54,001 --> 01:12:58,704
+It's based on her saying
+that Ross might intimidate
+
+1430
+01:12:58,806 --> 01:13:02,842
+or even murder people,
+um, from jail.
+
+1431
+01:13:11,786 --> 01:13:13,753
+- WILSON: When all this
+first happened, I said,
+
+1432
+01:13:13,855 --> 01:13:15,755
+well, it would still have been
+necessary to say that, well,
+
+1433
+01:13:15,857 --> 01:13:17,123
+this man's a murderer and...
+
+1434
+01:13:17,225 --> 01:13:18,958
+and he was only out
+for his own gain.
+
+1435
+01:13:19,060 --> 01:13:21,627
+And you know, he had...
+what do you call it,
+
+1436
+01:13:21,729 --> 01:13:23,963
+a callous disregard
+for human life.
+
+1437
+01:13:24,065 --> 01:13:25,297
+It's necessary to paint
+a figure that way
+
+1438
+01:13:25,400 --> 01:13:27,733
+rather than to make him,
+you know, a martyr of the...
+
+1439
+01:13:27,835 --> 01:13:29,468
+the war on drugs.
+
+1440
+01:13:29,570 --> 01:13:31,137
+I think that's just
+good planning.
+
+1441
+01:13:31,239 --> 01:13:33,339
+- I think it's gonna
+be difficult, um,
+
+1442
+01:13:33,441 --> 01:13:34,940
+to have a fair trial.
+
+1443
+01:13:35,042 --> 01:13:37,176
+If you are innocent
+until proven guilty,
+
+1444
+01:13:37,278 --> 01:13:38,878
+then with all the evidence
+
+1445
+01:13:38,980 --> 01:13:40,880
+and all the stories
+that have been written,
+
+1446
+01:13:40,982 --> 01:13:42,915
+I think it's gonna be
+really difficult to...
+
+1447
+01:13:43,017 --> 01:13:45,885
+to find people who are
+not influenced by...
+
+1448
+01:13:45,987 --> 01:13:48,988
+by any of this
+at all going into it.
+
+1449
+01:14:04,238 --> 01:14:05,704
+- REEVES NARRATING:
+The day before the trial,
+
+1450
+01:14:05,807 --> 01:14:08,174
+Ross provided a written
+statement.
+
+1451
+01:14:08,276 --> 01:14:12,011
+It was the closest anyone would
+ever get to an actual interview.
+
+1452
+01:15:28,856 --> 01:15:30,723
+- MALE NEWSCASTER: Ross Ulbricht
+went on trial today.
+
+1453
+01:15:30,825 --> 01:15:32,291
+A jury will decide a case
+
+1454
+01:15:32,393 --> 01:15:34,293
+that could impact the future
+of internet privacy.
+
+1455
+01:15:34,395 --> 01:15:35,794
+- Good evening to you.
+
+1456
+01:15:35,897 --> 01:15:37,162
+Opening arguments
+taking place today,
+
+1457
+01:15:37,265 --> 01:15:39,198
+and the first witness
+took the stand
+
+1458
+01:15:39,300 --> 01:15:41,467
+and actually just got
+off a few minutes ago--
+
+1459
+01:15:41,569 --> 01:15:45,304
+a Homeland Security
+investigation special agent
+
+1460
+01:15:45,406 --> 01:15:47,206
+who testified saying that,
+
+1461
+01:15:47,308 --> 01:15:52,411
+"Thousands of envelopes
+of drugs..."
+
+1462
+01:15:52,513 --> 01:15:54,980
+- GREENBERG: I think everyone
+was surprised that Ross Ulbricht
+
+1463
+01:15:55,082 --> 01:15:57,016
+and his lawyers took this
+to trial in the first place
+
+1464
+01:15:57,118 --> 01:15:59,051
+instead of just
+taking a plea deal
+
+1465
+01:15:59,153 --> 01:16:01,253
+like pretty much
+everyone expected.
+
+1466
+01:16:01,355 --> 01:16:02,922
+And today, we saw why,
+
+1467
+01:16:03,024 --> 01:16:05,357
+which is that they've actually
+got a pretty compelling
+
+1468
+01:16:05,459 --> 01:16:09,295
+alternate narrative of how this
+whole case has played out.
+
+1469
+01:16:09,397 --> 01:16:13,065
+The story that Dratel
+is telling that Ross did create
+
+1470
+01:16:13,167 --> 01:16:15,301
+the Silk Road, which is an
+amazing admission to begin with,
+
+1471
+01:16:15,403 --> 01:16:17,903
+and that the real operator
+of the Silk Road,
+
+1472
+01:16:18,005 --> 01:16:20,005
+the Dread Pirate Roberts,
+framed him.
+
+1473
+01:16:20,107 --> 01:16:23,475
+It's a kind of theory that
+I never heard posed before,
+
+1474
+01:16:23,578 --> 01:16:26,445
+that instead of Ross being
+the Dread Pirate Roberts,
+
+1475
+01:16:26,547 --> 01:16:28,647
+he was framed by him.
+
+1476
+01:16:28,749 --> 01:16:31,350
+But in many ways, you know, it's
+something I should've expected
+
+1477
+01:16:31,452 --> 01:16:34,687
+because it's what
+the Dread Pirate Roberts told me
+
+1478
+01:16:34,789 --> 01:16:37,089
+when I interviewed
+him in July of 2013
+
+1479
+01:16:37,191 --> 01:16:39,024
+that he didn't create
+the Silk Road,
+
+1480
+01:16:39,126 --> 01:16:41,360
+that he had inherited
+it from its creator,
+
+1481
+01:16:41,462 --> 01:16:44,163
+kind of like a business
+acquisition.
+
+1482
+01:16:44,265 --> 01:16:47,800
+The FBI has told me that that
+was Ross Ulbricht lying to me.
+
+1483
+01:16:47,902 --> 01:16:50,336
+If it is a lie, it would
+require just a lot of...
+
+1484
+01:16:50,438 --> 01:16:53,105
+a lot of foresight and planning,
+kind of like the...
+
+1485
+01:16:53,207 --> 01:16:58,310
+you know, an amazing game
+of chess or something.
+
+1486
+01:16:58,412 --> 01:17:00,379
+- REEVES NARRATING:
+In the first days of the trial,
+
+1487
+01:17:00,481 --> 01:17:02,715
+the prosecution presented
+evidence that Ross
+
+1488
+01:17:02,817 --> 01:17:05,851
+kept a journal on his laptop
+describing his involvement
+
+1489
+01:17:05,953 --> 01:17:09,154
+in the Silk Road and that the
+Bitcoins seized from his laptop
+
+1490
+01:17:09,256 --> 01:17:11,190
+came directly from the site.
+
+1491
+01:17:11,292 --> 01:17:13,559
+While the defense would argue
+that Ross abandoned
+
+1492
+01:17:13,661 --> 01:17:16,128
+the Silk Road after creating
+it and that the journal
+
+1493
+01:17:16,230 --> 01:17:19,865
+and the Bitcoin were
+planted on his laptop.
+
+1494
+01:17:19,967 --> 01:17:21,433
+- MALE NEWSCASTER:
+Andy, you interviewed
+
+1495
+01:17:21,535 --> 01:17:22,635
+the Dread Pirate Roberts.
+
+1496
+01:17:22,737 --> 01:17:24,203
+What's the evidence connecting
+
+1497
+01:17:24,305 --> 01:17:26,171
+Dread Pirate Roberts
+to Ulbricht directly?
+
+1498
+01:17:26,273 --> 01:17:28,073
+- GREENBERG: Well, in the first
+couple of weeks of this trial,
+
+1499
+01:17:28,175 --> 01:17:29,475
+which is ongoing now,
+
+1500
+01:17:29,577 --> 01:17:31,844
+we've seen that the prosecution
+has a very strong case.
+
+1501
+01:17:31,946 --> 01:17:33,012
+Once they seized his laptop,
+
+1502
+01:17:33,114 --> 01:17:35,014
+they found that
+he had kept a journal.
+
+1503
+01:17:35,116 --> 01:17:36,415
+If this is, in fact,
+Ulbricht's journal.
+
+1504
+01:17:36,517 --> 01:17:37,916
+His defense claims it's not.
+- Right.
+
+1505
+01:17:38,019 --> 01:17:39,551
+- He documented
+the administration
+
+1506
+01:17:39,654 --> 01:17:40,786
+of this site for years.
+
+1507
+01:17:40,888 --> 01:17:42,354
+He has a log book
+of daily activities.
+
+1508
+01:17:42,456 --> 01:17:44,957
+So this is a really tight
+case that's gonna be
+
+1509
+01:17:45,059 --> 01:17:48,060
+very difficult for Ulbricht
+to...to squeeze out of it.
+
+1510
+01:17:48,162 --> 01:17:51,497
+- Underneath, in the deep web,
+we have an area
+
+1511
+01:17:51,599 --> 01:17:53,999
+where this young man,
+according to the government,
+
+1512
+01:17:54,101 --> 01:17:56,535
+has made a decision that
+he's going to run
+
+1513
+01:17:56,637 --> 01:18:01,340
+an illegal drug empire
+and we need to stop you,
+
+1514
+01:18:01,442 --> 01:18:07,112
+swift and certain prosecution,
+and ultimate certain punishment.
+
+1515
+01:18:07,214 --> 01:18:09,014
+- REEVES NARRATING:
+As the trial continued,
+
+1516
+01:18:09,116 --> 01:18:11,817
+Dratel planned to reveal
+the government's own evidence
+
+1517
+01:18:11,919 --> 01:18:16,221
+showed they suspected multiple
+people of running the Silk Road.
+
+1518
+01:18:16,323 --> 01:18:19,625
+During his cross examination of
+DHS agent Der-Yeghiayan,
+
+1519
+01:18:19,727 --> 01:18:23,062
+Dratel was able to expose that
+the agent had long suspected
+
+1520
+01:18:23,164 --> 01:18:25,964
+another person to be
+the Dread Pirate Roberts,
+
+1521
+01:18:26,067 --> 01:18:29,535
+going so far as to seek
+a warrant for this suspect.
+
+1522
+01:18:29,637 --> 01:18:32,938
+The protection protested this
+entire line of questioning
+
+1523
+01:18:33,040 --> 01:18:35,040
+on the grounds that
+it was hearsay.
+
+1524
+01:18:35,142 --> 01:18:37,142
+The judge sided
+with the prosecution
+
+1525
+01:18:37,244 --> 01:18:39,144
+and Dratel was no longer
+allowed to question
+
+1526
+01:18:39,246 --> 01:18:41,914
+government witnesses about
+alternate suspects
+
+1527
+01:18:42,016 --> 01:18:44,717
+that came from
+the government's own evidence.
+
+1528
+01:18:44,819 --> 01:18:47,953
+When the time came for Dratel
+to begin his defense,
+
+1529
+01:18:48,055 --> 01:18:50,355
+he intended to use
+expert witnesses
+
+1530
+01:18:50,458 --> 01:18:51,957
+to explain that
+the complex technology
+
+1531
+01:18:52,059 --> 01:18:54,159
+behind encryption
+and cryptocurrency
+
+1532
+01:18:54,261 --> 01:18:55,561
+made it difficult to prove
+
+1533
+01:18:55,663 --> 01:18:59,231
+that the journal and
+the Bitcoin belonged to Ross.
+
+1534
+01:18:59,333 --> 01:19:01,500
+The prosecution objected
+to these witnesses,
+
+1535
+01:19:01,602 --> 01:19:03,969
+claiming they should have been
+made known earlier in the trial
+
+1536
+01:19:04,071 --> 01:19:05,604
+and they were not necessary
+
+1537
+01:19:05,706 --> 01:19:08,140
+for the jury's understanding
+of the case.
+
+1538
+01:19:08,242 --> 01:19:10,743
+Once again, the judge sided
+with the prosecution,
+
+1539
+01:19:10,845 --> 01:19:15,347
+stating that this case did not
+require specialized knowledge.
+
+1540
+01:19:15,449 --> 01:19:18,150
+Without expert witnesses
+and unable to pursue
+
+1541
+01:19:18,252 --> 01:19:21,086
+the government's own evidence
+of an alternate DPR,
+
+1542
+01:19:21,188 --> 01:19:24,890
+Dratel's entire defense
+was effectively blocked.
+
+1543
+01:19:24,992 --> 01:19:27,159
+The trial ended abruptly
+the next day.
+
+1544
+01:19:34,635 --> 01:19:36,468
+The trial of Ross Ulbricht
+
+1545
+01:19:36,570 --> 01:19:38,771
+raised more questions
+than it answered.
+
+1546
+01:19:38,873 --> 01:19:43,742
+Did we really know the full
+truth of the Silk Road case?
+
+1547
+01:19:43,844 --> 01:19:45,744
+Would this case set a precedent
+
+1548
+01:19:45,846 --> 01:19:49,114
+for the warrantless search of
+Americans' digital property?
+
+1549
+01:19:49,216 --> 01:19:51,383
+Whatever the ultimate outcome,
+it was clear that
+
+1550
+01:19:51,485 --> 01:19:54,553
+the fall of the Silk Road
+was not the end of a chapter,
+
+1551
+01:19:54,655 --> 01:19:56,355
+but the beginning.
+
+1552
+01:19:56,457 --> 01:20:00,592
+And the movement to create tools
+and services for online privacy
+
+1553
+01:20:00,694 --> 01:20:02,594
+is stronger than ever.
+
+1554
+01:20:02,696 --> 01:20:04,329
+- FEMALE NEWSCASTER: The trial
+of Silk Road mastermind
+
+1555
+01:20:04,431 --> 01:20:06,598
+Ross Ulbricht concluded
+when a jury found him guilty
+
+1556
+01:20:06,700 --> 01:20:09,968
+on seven different counts
+that included three drug charges
+
+1557
+01:20:10,070 --> 01:20:13,005
+as well as computer hacking,
+money laundering
+
+1558
+01:20:13,107 --> 01:20:14,273
+and even a kingpin charge
+
+1559
+01:20:14,375 --> 01:20:16,608
+of continuing a criminal
+enterprise.
+
+1560
+01:20:16,710 --> 01:20:19,378
+Ulbricht faces a minimum
+of 30 years behind bars,
+
+1561
+01:20:19,480 --> 01:20:21,880
+but his defense plans
+to appeal this decision.
+
+1562
+01:20:21,982 --> 01:20:23,582
+- Anyone here, all of us,
+
+1563
+01:20:23,684 --> 01:20:25,450
+are going to be judged
+by things for which
+
+1564
+01:20:25,553 --> 01:20:28,187
+there is no attribution
+in real life.
+
+1565
+01:20:28,289 --> 01:20:30,522
+There's only attribution
+on the internet
+
+1566
+01:20:30,624 --> 01:20:34,660
+for things to be created,
+codified, edited, moved, hacked.
+
+1567
+01:20:34,762 --> 01:20:37,329
+- MAN: Was it a fair trial?
+- No, I don't think so.
+
+1568
+01:20:39,767 --> 01:20:41,934
+- GREENBERG: As the actual
+verdict was read,
+
+1569
+01:20:42,036 --> 01:20:44,369
+the word "guilty"
+was said seven times.
+
+1570
+01:20:44,471 --> 01:20:46,138
+Ross was just staring
+straight ahead.
+
+1571
+01:20:46,240 --> 01:20:48,507
+I don't know what
+was on his face.
+
+1572
+01:20:48,609 --> 01:20:51,076
+But afterwards he turned
+back to look at his family
+
+1573
+01:20:51,178 --> 01:20:53,011
+and he had this really
+heartbreaking
+
+1574
+01:20:53,113 --> 01:20:54,980
+kind of stoic smile.
+
+1575
+01:20:55,082 --> 01:20:57,549
+And he was just...
+he wasn't crying,
+
+1576
+01:20:57,651 --> 01:21:00,786
+but he was just blinking...
+like blinking hard.
+
+1577
+01:21:00,888 --> 01:21:05,724
+And, uh, then as he was led
+away, his mom said,
+
+1578
+01:21:05,826 --> 01:21:08,327
+"This is not the end."
+
+1579
+01:21:08,429 --> 01:21:11,730
+You know, that was it.
+
+1580
+01:21:15,502 --> 01:21:17,502
+- GREENBERG:
+The evidence against Ulbricht
+
+1581
+01:21:17,605 --> 01:21:20,539
+was so powerful and Dratel's
+strategy had been
+
+1582
+01:21:20,641 --> 01:21:22,908
+to try to cross examine
+every government witness
+
+1583
+01:21:23,010 --> 01:21:24,376
+and to pull out
+his alternative story
+
+1584
+01:21:24,478 --> 01:21:26,578
+through that cross examination.
+
+1585
+01:21:26,680 --> 01:21:28,780
+And when the judge essentially
+shut that down and said
+
+1586
+01:21:28,883 --> 01:21:31,683
+you have to limit your cross
+examination to the scope
+
+1587
+01:21:31,785 --> 01:21:35,320
+of the government's
+initial questioning,
+
+1588
+01:21:35,422 --> 01:21:39,024
+that really prevented him from
+telling any other story.
+
+1589
+01:21:43,664 --> 01:21:45,697
+- KIRK ULBRICHT: We have
+a much more informed perspective
+
+1590
+01:21:45,799 --> 01:21:47,466
+than the rest of the world.
+
+1591
+01:21:47,568 --> 01:21:49,635
+Uh, we have meetings
+that we've had with Josh
+
+1592
+01:21:49,737 --> 01:21:53,805
+through the last year and three
+months, uh, regular meetings.
+
+1593
+01:21:53,908 --> 01:21:55,674
+We know about how he felt like
+
+1594
+01:21:55,776 --> 01:21:58,977
+he might win the case,
+uh, in cross examination.
+
+1595
+01:21:59,079 --> 01:22:02,147
+Uh, we know that the government,
+that his witnesses were...
+
+1596
+01:22:02,249 --> 01:22:05,717
+were, uh, blocked
+from testifying.
+
+1597
+01:22:05,819 --> 01:22:09,621
+Um, we were in the courtroom
+and we saw what happened and...
+
+1598
+01:22:09,723 --> 01:22:16,662
+and the...the, uh, the travesty,
+the, uh, appalling,
+
+1599
+01:22:16,764 --> 01:22:19,197
+um, obstruction of justice
+that happened.
+
+1600
+01:22:19,300 --> 01:22:22,467
+- There was 5,000 pages
+of government evidence
+
+1601
+01:22:22,569 --> 01:22:25,737
+to do with one witness alone,
+Jarod Der-Yeghiayan.
+
+1602
+01:22:25,839 --> 01:22:27,606
+None of that was allowed.
+
+1603
+01:22:27,708 --> 01:22:30,275
+5,000 pages, and it was
+dumped on the defense
+
+1604
+01:22:30,377 --> 01:22:31,910
+10 days before trial.
+
+1605
+01:22:32,012 --> 01:22:35,314
+Another 2,500 pages for other
+witnesses was dumped
+
+1606
+01:22:35,416 --> 01:22:37,215
+on the defense
+a week before trial.
+
+1607
+01:22:37,318 --> 01:22:40,519
+And it was full of
+exculpatory evidence
+
+1608
+01:22:40,621 --> 01:22:44,323
+favorable to Ross that was
+not permitted to be used.
+
+1609
+01:22:44,425 --> 01:22:49,094
+- All this great,
+huge field of evidence
+
+1610
+01:22:49,196 --> 01:22:52,831
+that came out in the 3,500
+material, a week before trial,
+
+1611
+01:22:52,933 --> 01:22:55,600
+that was...
+[clears throat]
+
+1612
+01:22:55,703 --> 01:22:57,936
+that would help
+prove Ross's innocence
+
+1613
+01:22:58,038 --> 01:23:01,506
+was excluded from being brought
+out in the courtroom.
+
+1614
+01:23:01,608 --> 01:23:03,475
+It would have been
+a whole different case.
+
+1615
+01:23:03,577 --> 01:23:05,477
+This was the trial
+that didn't happen.
+
+1616
+01:23:05,579 --> 01:23:07,245
+- The trial that didn't happen.
+
+1617
+01:23:07,348 --> 01:23:09,348
+- The trial just didn't
+happen, because it was only
+
+1618
+01:23:09,450 --> 01:23:14,386
+the prosecution's
+narrative that we heard.
+
+1619
+01:23:16,190 --> 01:23:18,123
+- WINTER: So then what
+about the hacking
+
+1620
+01:23:18,225 --> 01:23:19,791
+of the Silk Road servers?
+
+1621
+01:23:19,893 --> 01:23:21,994
+What about the precedent
+issue of the case?
+
+1622
+01:23:22,096 --> 01:23:23,729
+- We didn't get that far.
+
+1623
+01:23:23,831 --> 01:23:26,665
+You know, we didn't get to even
+have that kind of public hearing
+
+1624
+01:23:26,767 --> 01:23:29,067
+where the FBI has to
+say how they did it
+
+1625
+01:23:29,169 --> 01:23:30,235
+and then we get to decide
+
+1626
+01:23:30,337 --> 01:23:32,804
+whether that was
+legal or illegal.
+
+1627
+01:23:32,906 --> 01:23:34,439
+That's maybe the most
+frustrating thing about this
+
+1628
+01:23:34,541 --> 01:23:37,609
+case from a legal point of view
+is that American law enforcement
+
+1629
+01:23:37,711 --> 01:23:40,946
+hacked a foreign server,
+I believe,
+
+1630
+01:23:41,048 --> 01:23:43,448
+and they didn't have a warrant
+
+1631
+01:23:43,550 --> 01:23:47,452
+and they completely got away
+with it and nobody's even...
+
+1632
+01:23:47,554 --> 01:23:50,689
+nobody even gets to ask any
+questions about it.
+
+1633
+01:23:50,791 --> 01:23:52,891
+- WINTER: How is Ross
+through all of this?
+
+1634
+01:23:52,993 --> 01:23:54,760
+- He's an amazing guy.
+
+1635
+01:23:54,862 --> 01:23:57,529
+You know, he's handling this
+so much better than I would've.
+
+1636
+01:23:57,631 --> 01:24:00,432
+I...I don't know how I could've
+taken what he's, uh,
+
+1637
+01:24:00,534 --> 01:24:03,135
+put up with and
+been subjected to
+
+1638
+01:24:03,237 --> 01:24:05,470
+in this last year
+and three months.
+
+1639
+01:24:05,572 --> 01:24:08,507
+And we pray that, uh...
+[sighing]
+
+1640
+01:24:08,609 --> 01:24:11,076
+his spirit won't be
+crushed by this.
+
+1641
+01:24:13,147 --> 01:24:15,347
+- GREENBERG: It seems that Ross
+conceived of the Silk Road,
+
+1642
+01:24:15,449 --> 01:24:18,450
+that he ran it for its
+entire existence online.
+
+1643
+01:24:18,552 --> 01:24:21,553
+I actually accept that
+the government has proven that.
+
+1644
+01:24:21,655 --> 01:24:26,158
+But Ross Ulbricht is
+a fascinating character.
+
+1645
+01:24:26,260 --> 01:24:28,160
+He invented
+this brilliant thing.
+
+1646
+01:24:28,262 --> 01:24:29,528
+He had principles.
+
+1647
+01:24:29,630 --> 01:24:30,829
+He wasn't just a cyber-criminal.
+
+1648
+01:24:30,931 --> 01:24:33,165
+He wasn't just a drug lord
+or a kingpin
+
+1649
+01:24:33,267 --> 01:24:35,500
+as he's described
+in these charges.
+
+1650
+01:24:35,602 --> 01:24:38,170
+He was also an idealistic guy.
+
+1651
+01:24:38,272 --> 01:24:42,574
+And I'm gonna be conflicted
+about both the kind of virtue of
+
+1652
+01:24:42,676 --> 01:24:44,709
+the Silk Road and of
+Ross Ulbricht as a person,
+
+1653
+01:24:44,812 --> 01:24:46,678
+I think, for the rest
+of my life.
+
+1654
+01:24:46,780 --> 01:24:48,880
+I'm not gonna be able to come
+to a conclusion about this.
+
+1655
+01:25:19,345 --> 01:25:22,714
+GOT ANY MORE QUESTIONS
+OR SHOULD WE WRAP IT UP?
+
+1656
+01:25:22,816 --> 01:25:24,384
+YES.
+
+1657
+01:25:24,686 --> 01:25:29,685
+WHAT ARE YOU GOING TO DO OVER
+THE NEXT FIVE YEARS?
+
+1658
+01:25:29,858 --> 01:25:32,859
+IN ONE SENTENCE.
+
+1659
+01:25:43,540 --> 01:25:47,672
+I'M GOING TO DO A FEW THINGS
+BUT ONE SENTENCE ISN'T ENOUGH.
+
+1660
+01:25:48,044 --> 01:25:51,643
+I'M PRETTY SURE I WANT TO START A FAMILY
+IN THE NEXT FIVE YEARS.
+
+1661
+01:25:51,845 --> 01:25:54,847
+NICE. OKAY.
+
+1662
+01:25:55,349 --> 01:25:59,751
+AND -- YEAH, MAKE MORE FRIENDS
+
+1663
+01:25:59,953 --> 01:26:03,221
+AND CLOSE PEOPLE I LOVE.
+
+1664
+01:26:03,489 --> 01:26:08,593
+FOCUS ON BEING MORE CONNECTED TO
+PEOPLE.
+
+1665
+01:26:08,995 --> 01:26:12,932
+AND 20 YEARS?
+
+1666
+01:26:13,634 --> 01:26:15,903
+20 YEARS.
+
+1667
+01:26:17,906 --> 01:26:22,441
+I WANT TO HAVE HAD A
+SUBSTANTIAL, POSITIVE IMPACT
+
+1668
+01:26:22,643 --> 01:26:24,809
+ON THE FUTURE OF HUMANITY
+BY THAT TIME.
+
+1669
+01:26:25,011 --> 01:26:27,579
+DO YOU THINK YOU'RE GOING TO
+LIVE FOREVER?
+
+1670
+01:26:27,648 --> 01:26:30,881
+I THINK IT'S A POSSIBILITY
+I HONESTLY DO.
+
+1671
+01:26:30,984 --> 01:26:33,718
+I THINK I MIGHT LIVE FOREVER IN SOME FORM
+
+1672
+01:26:33,857 --> 01:26:38,724
+BY THAT TIME
+WITH TECHNOLOGIES CHANGING SO FAST.
+
+1673
+01:26:38,926 --> 01:26:41,828
+COOL I HOPE I'M GOING THERE.
+
+1674
+01:26:42,629 --> 01:26:43,933
+SWEET.
+
